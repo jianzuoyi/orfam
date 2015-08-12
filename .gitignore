@@ -1,5 +1,5 @@
 doc/
 data/
+results
 .DS_Store
-*.fa
-.gff
+
