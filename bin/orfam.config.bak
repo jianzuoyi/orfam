@@ -1,0 +1,11 @@
+#!bin/bash -e
+
+# general
+ORFAM_HOME=~/Projects/orfam
+
+# align
+MAKEBLASTDB=$ORFAM_HOME/bin/makeblastdb
+TBLASTN=$ORFAM_HOME/bin/tblastn
+
+# or
+BEDTOOLS=$ORFAM_HOME/bin/bedtools
