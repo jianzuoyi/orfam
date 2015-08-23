@@ -264,7 +264,7 @@ options:
 		
 		paste $TEMP_DIR/clusters.gff <(cat $TEMP_DIR/clusters.gff | cut -f 9 | cut -f 8 -d ';' | cut -f 2 -d '=') \
 		| sort -k10n,10 -k6g,6 -k11gr,11 \
-		| awk -v OFS='\t' '{ if (( $10!=last )) { last=$10; print $1,$2,$3,$4,$5,$6,$7,$8,$9 } }' - > "$OUTBASE-best-hits.gff"
+		| awk '!arr[$10]++' | cut -f 1-9 > "$OUTBASE-best-hits.gff"
 	fi
 	
 	# 2. Criteria 1: discard hits which length is shorter than 250 aa.
