@@ -147,17 +147,17 @@ global options:
 		mkdir -p $TEMP_DIR
 	fi
 	
-    if [[ ! -f "$OUTPUT.txt" ]]; then
+    if [[ ! -f "$OUTBASE.blast.txt" ]]; then
     	if [[ $VERBOSE -eq 1 ]]; then
     		echo "
-			$TBLASTN -db $REF -query $OR -out $TEMP_DIR/$OUTBASE.blast.out -evalue 1e-20 -outfmt 6 -num_threads $THREADS
-			mv $TEMP_DIR/$OUTBASE.blast.out $OUTPUT.txt
+			$TBLASTN -db $REF -query $OR -out $TEMP_DIR/$OUTBASE.blast.txt -evalue 1e-20 -outfmt 6 -num_threads $THREADS
+			mv $TEMP_DIR/$OUTBASE.blast.txt $OUTBASE.blast.txt
 			"
     	fi
 
 		echo "
-		$TBLASTN -db $REF -query $OR -out $TEMP_DIR/$OUTBASE.blast.out -evalue 1e-20 -outfmt 6 -num_threads $THREADS
-		mv $TEMP_DIR/$OUTBASE.blast.out $OUTPUT.txt
+		$TBLASTN -db $REF -query $OR -out $TEMP_DIR/$OUTBASE.blast.txt -evalue 1e-20 -outfmt 6 -num_threads $THREADS
+		mv $TEMP_DIR/$OUTBASE.blast.txt $OUTBASE.blast.txt
 		" | bash
 	fi
 
@@ -260,7 +260,7 @@ options:
 	# Get best hits
 	if [[ ! -f "$OUTBASE-best-hits.gff" ]]; then
 		cat $BLAST_OUT | awk -v OFS='\t' '{ if(($9<$10)) { strand="+" } else { strand="-"; tmp=$10; $10=$9; $9=tmp } print $2,"TBLASTN","similarity",$9,$10,$11,strand,".","qseqid="$1";qstart="$7";qend="$8";pident="$3";length="$4";mismatch="$5";gapopen="$6";bitscore="$12 }' \
-		| sort -k7,7 -k1,1 -k4n,4 | $BEDTOOLS cluster -i - > $TEMP_DIR/clusters.gff
+		| sort -k7,7 -k1,1 -k4n,4 | $BEDTOOLS cluster -s -i - > $TEMP_DIR/clusters.gff
 		
 		paste $TEMP_DIR/clusters.gff <(cat $TEMP_DIR/clusters.gff | cut -f 9 | cut -f 8 -d ';' | cut -f 2 -d '=') \
 		| sort -k10n,10 -k6g,6 -k11gr,11 \
