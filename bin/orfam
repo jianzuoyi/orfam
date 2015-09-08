@@ -150,7 +150,7 @@ global options:
     if [[ ! -f "$OUTBASE.blast.txt" ]]; then
     	if [[ $VERBOSE -eq 1 ]]; then
     		echo "
-			$TBLASTN -db $REF -query $OR -out $TEMP_DIR/$OUTBASE.blast.txt -evalue 1e-20 -outfmt 6 -num_threads $THREADS
+			$TBLASTN -db $REF -query $OR -out $TEMP_DIR/$OUTBASE.blast.txt -evalue 1e-10 -outfmt 6 -num_threads $THREADS
 			mv $TEMP_DIR/$OUTBASE.blast.txt $OUTBASE.blast.txt
 			"
     	fi
