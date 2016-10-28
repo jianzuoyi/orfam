@@ -38,16 +38,22 @@ def orffinder(seq, min_protein_length):
     return orfs
 
 
+def getsubseq(seq, start, end, flank):
+    seq_len = len(seq)
+    seq_start = max(0, start - flank)
+    seq_end = min(end + flank, seq_len)
+    return seq_start, seq_end, seq[seq_start - 1:seq_end]
+
+
 def findorf(args):
     ref_dict = SeqIO.to_dict(SeqIO.parse(args.reference, "fasta"))
     for line in args.hit:
         hit = line.rstrip().split()
         chrom = hit[0]
-        flank = 1000
         ref_record = ref_dict[chrom]
-        ref_start = int(hit[3]) - flank
-        ref_stop = int(hit[4]) + flank
-        seq = ref_record.seq[ref_start - 1:ref_stop]
+        flank = 1000
+        ref_start, ref_stop, seq = getsubseq(
+            ref_record.seq, int(hit[3]), int(hit[4]), flank)
         orfs = orffinder(seq, 250)
         for orf_start, orf_stop, strand in orfs:
             orf = [ref_record.id, "findorf", "ORF",
@@ -61,9 +67,9 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser("find open reading frame")
     parser.add_argument(
         "reference", type=argparse.FileType("r"),
-        help=("FASTA	reference genome, FASTA format"))
+        help=("FASTA    reference genome, FASTA format"))
     parser.add_argument(
-        "hit", type=argparse.FileType("r"), help=("GFF	blast output"))
+        "hit", type=argparse.FileType("r"), help=("GFF  blast output"))
 
     args = parser.parse_args()
     findorf(args)

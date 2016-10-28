@@ -158,7 +158,8 @@ def assign_start_codon(in_genome, in_ORFs_aln, in_or_ref, in_or_ref_tm):
         # output (GFF format)
         line = [chrom, "start_codon", "ORF",
                 str(start), str(end), "0.0", strand, ".", "."]
-        print("\t".join(line))
+        if abs(end - start)/3 >= 250 and abs(end-start)/3 <= 450:
+            print("\t".join(line))
 
 
 if __name__ == '__main__':

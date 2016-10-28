@@ -5,7 +5,7 @@ set -eo pipefail
 #######################################################################
 #	Program: orfam
 #	Version: 1.0
-#	Author: Zuoyi Jian (jianzuoyi@qq.com)
+#	Author: Zuoyi Jian (jianzuoyi@gmail.com)
 #######################################################################
 
 # global usage
@@ -13,13 +13,12 @@ function usage() {
 	echo "
 Program: orfam
 Version: 1.0
-Author: Zuoyi Jian (jianzuoyi@qq.com)
+Author: Zuoyi Jian (jianzuoyi@gmail.com)
 
 usage:   orfam <command> [options]
 
 command: align 	align FASTA files with tblastn
-         func 	identify intact olfactory receptor genes
-         pseudo identify pseudo olfactory receptor genes
+         or 	identify olfactory receptor genes
 options: -h 	show this message 
 "
 }
@@ -148,11 +147,6 @@ options:
 	# check the relevant binaries
 	source_binaries $CONFIG
 	
-    if [[ ! -f $BIOAWK ]]; then
-        align_usage
-        echo -e "Error: bioawk executable not found. Please set path in $ORFAM_DIR/orfam.config file\n"
-        exit 1
-    fi
 	if [[ ! -f $MAKEBLASTDB ]]; then
 		align_usage
 		echo -e "Error: makeblastdb executable not found. Please set path in $ORFAM_DIR/orfam.config file\n"
@@ -178,7 +172,7 @@ options:
 	if [[ -z $OUTPUT ]]; then
 		OUTPUT="$(basename $QUERY).tblastn"
 	fi
-    OUTBASE=$(basename $OUTPUT)
+
 	# make temporary directory
 	if [[ -z $TEMP_DIR ]]; then
 		TEMP_DIR=$( mktemp -d tmpXXXXXXXX )
@@ -196,14 +190,14 @@ options:
    		echo "
 		$BIOAWK -c fastx 'length(\$2) >= 250 { print \">\"\$1\"\n\"\$2}' $QUERY > $TEMP_DIR/query_length_ge_250aa.fa
 		$MAKEBLASTDB -dbtype nucl -in $SUBJECT -out $TEMP_DIR/$(basename $SUBJECT) -title \"ref genome database\" -parse_seqids
-		$TBLASTN -db $TEMP_DIR/$(basename $SUBJECT) -query $TEMP_DIR/query_length_ge_250aa.fa -out $TEMP_DIR/${OUTBASE}.tmp -evalue $EVALUE -outfmt 6 -num_threads $THREADS
-		mv $TEMP_DIR/${OUTBASE}.tmp $OUTPUT"
+		$TBLASTN -db $TEMP_DIR/$(basename $SUBJECT) -query $TEMP_DIR/query_length_ge_250aa.fa -out $TEMP_DIR/$OUTPUT.tmp -evalue $EVALUE -outfmt 6 -num_threads $THREADS
+		mv $TEMP_DIR/$OUTPUT.tmp $OUTPUT"
     fi
 
     $BIOAWK -c fastx 'length($2) >= 250 { print ">"$1"\n"$2}' $QUERY > $TEMP_DIR/query_length_ge_250aa.fa
     $MAKEBLASTDB -dbtype nucl -in $SUBJECT -out $TEMP_DIR/$(basename $SUBJECT) -title "ref genome database" -parse_seqids 
-	$TBLASTN -db $TEMP_DIR/$(basename $SUBJECT) -query $TEMP_DIR/query_length_ge_250aa.fa -out $TEMP_DIR/${OUTBASE}.tmp -evalue $EVALUE -outfmt 6 -num_threads $THREADS		
-	mv $TEMP_DIR/${OUTBASE}.tmp $OUTPUT
+	$TBLASTN -db $TEMP_DIR/$(basename $SUBJECT) -query $TEMP_DIR/query_length_ge_250aa.fa -out $TEMP_DIR/$OUTPUT.tmp -evalue $EVALUE -outfmt 6 -num_threads $THREADS		
+	mv $TEMP_DIR/$OUTPUT.tmp $OUTPUT
 	
 	if [[ "$?" -ne 0 ]]; then
 		echo "Error: $TBLASTN returned an error;exit now"
@@ -411,7 +405,7 @@ options:
 		
 	paste $TEMP_DIR/blast_hit_clusters.gff <(cat $TEMP_DIR/blast_hit_clusters.gff | cut -f 9 | cut -f 8 -d ';' | cut -f 2 -d '=') \
 	| sort -k10n,10 -k6g,6 -k11gr,11 \
-	| awk '!arr[$10]++' | cut -f 1-9 | awk '($5-$4+1)/3>=50' > $TEMP_DIR/${OUTBASE}_best_hit.gff.tmp
+	| awk '!arr[$10]++' | cut -f 1-9 > $TEMP_DIR/${OUTBASE}_best_hit.gff.tmp
 	mv $TEMP_DIR/${OUTBASE}_best_hit.gff.tmp $OUT_BEST_HIT
 	
 	if [[ "$?" -ne 0 ]]; then
@@ -695,12 +689,10 @@ options:
 		esac
 	done
 
-	# check the relevant binaries
-	source_binaries $CONFIG
-	
 	# check python modules
 	check_python_modules $PYTHON
-	
+	# check the relevant binaries
+	source_binaries $CONFIG
 	if [[ ! -f $EXONERATE ]]; then
 		pseudo_usage
 		echo -e "Error: exonerate executable not found. Please set path in $ORFAM_DIR/orfam.config file."
