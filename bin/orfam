@@ -643,7 +643,11 @@ options:
 
 	# check options passed in
 	if [[ -z "$2" ]]; then
+<<<<<<< HEAD
 		func_usage
+=======
+		pseudo_usage
+>>>>>>> 3bc44e08e2a4974d74a696fb1e07bea84b08d77b
 		exit 1
 	fi
 
