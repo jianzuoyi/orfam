@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OR gene family identification
 This is a pipline for identification of olfactory receptor gene family
 =======
@@ -205,4 +204,3 @@ usage:	orfam pseudo [options]
     	-k \
     	-v
 	```
->>>>>>> 3bc44e08e2a4974d74a696fb1e07bea84b08d77b
