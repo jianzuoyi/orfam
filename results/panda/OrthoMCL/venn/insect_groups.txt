@@ -1,0 +1,590 @@
+fam1: ail|AmOR.337 ail|AmOR.338 ail|AmOR.339 ail|AmOR.340 ail|AmOR.433 ail|AmOR.609 ail|AmOR.534 ail|AmOR.538 ail|AmOR.431 ail|AmOR.537 ail|AmOR.434 ail|AmOR.436 ail|AmOR.437 ail|AmOR.570 dog|DogOR.328 dog|DogOR.330 dog|DogOR.376 dog|DogOR.329 dog|DogOR.335 dog|DogOR.343 dog|DogOR.371 dog|DogOR.377 dog|DogOR.375 dog|DogOR.332 dog|DogOR.336 dog|DogOR.339 dog|DogOR.344 dog|DogOR.374 dog|DogOR.334 dog|DogOR.342 dog|DogOR.337 dog|DogOR.338 dog|DogOR.345 dog|DogOR.378 dog|DogOR.369 dog|DogOR.370 dog|DogOR.372 dog|DogOR.341 mus|Mm2OR10.2.10 mus|Mm2OR10.2.9 mus|Mm2OR10.2.7 mus|Mm2OR10.2.8 urs|UmOR275 urs|UmOR278 urs|UmOR280 urs|UmOR592 urs|UmOR593 urs|UmOR594 urs|UmOR596 urs|UmOR600 urs|UmOR603 urs|UmOR721 urs|UmOR767 urs|UmOR277 urs|UmOR279 urs|UmOR591 urs|UmOR598 urs|UmOR711 urs|UmOR712 urs|UmOR713 urs|UmOR718 urs|UmOR726 urs|UmOR764 urs|UmOR281 urs|UmOR394 urs|UmOR396 urs|UmOR599 urs|UmOR601 urs|UmOR602 urs|UmOR715 urs|UmOR728 urs|UmOR769 urs|UmOR584 urs|UmOR590 urs|UmOR604 urs|UmOR719 urs|UmOR720 urs|UmOR727 urs|UmOR395 urs|UmOR586 urs|UmOR589 urs|UmOR605 urs|UmOR820 urs|UmOR585 urs|UmOR588 urs|UmOR724 urs|UmOR770 urs|UmOR771 urs|UmOR606 urs|UmOR714 urs|UmOR725 urs|UmOR595 urs|UmOR597 urs|UmOR766 urs|UmOR723 urs|UmOR717 urs|UmOR765 urs|UmOR722 urs|UmOR768 ail|AmOR.432 dog|DogOR.340 mus|Mm2OR16.2.1 ail|AmOR.583 ail|AmOR.603
+fam2: ail|AmOR.344 ail|AmOR.345 ail|AmOR.346 ail|AmOR.347 ail|AmOR.349 ail|AmOR.350 ail|AmOR.351 ail|AmOR.353 ail|AmOR.599 ail|AmOR.389 ail|AmOR.601 dog|DogOR.196 dog|DogOR.197 dog|DogOR.198 dog|DogOR.199 dog|DogOR.201 dog|DogOR.203 dog|DogOR.205 dog|DogOR.282 dog|DogOR.283 dog|DogOR.295 dog|DogOR.807 dog|DogOR.284 dog|DogOR.285 dog|DogOR.289 dog|DogOR.800 dog|DogOR.286 dog|DogOR.287 dog|DogOR.290 dog|DogOR.291 dog|DogOR.292 dog|DogOR.293 dog|DogOR.294 dog|DogOR.788 dog|DogOR.799 dog|DogOR.806 mus|Mm2OR2.2.184 mus|Mm2OR2.2.186 mus|Mm2OR2.2.187 mus|Mm2OR2.2.194 mus|Mm2OR2.2.198 mus|Mm2OR2.2.206 mus|Mm2OR2.2.200 mus|Mm2OR2.2.202 mus|Mm2OR2.2.204 urs|UmOR100 urs|UmOR102 urs|UmOR1114 urs|UmOR1115 urs|UmOR1117 urs|UmOR1132 urs|UmOR946 urs|UmOR947 urs|UmOR949 urs|UmOR96 urs|UmOR964 urs|UmOR97 urs|UmOR98 urs|UmOR99 urs|UmOR1134 urs|UmOR1137 urs|UmOR966 urs|UmOR969 urs|UmOR1135 urs|UmOR1139 urs|UmOR1144 urs|UmOR967 urs|UmOR971 urs|UmOR976
+fam3: dog|DogOR.5 dog|DogOR.629 dog|DogOR.791 dog|DogOR.792 dog|DogOR.6 dog|DogOR.633 dog|DogOR.627 dog|DogOR.628 dog|DogOR.634 dog|DogOR.635 mus|Mm2OR10.4.11 mus|Mm2OR10.4.12 mus|Mm2OR10.4.37 mus|Mm2OR10.4.16 mus|Mm2OR10.4.19 mus|Mm2OR10.4.30 mus|Mm2OR10.4.20 mus|Mm2OR10.4.36 mus|Mm2OR10.4.32 mus|Mm2OR10.4.8 urs|UmOR1068 urs|UmOR799 urs|UmOR900 urs|UmOR2 urs|UmOR730 urs|UmOR733 urs|UmOR752 urs|UmOR753 urs|UmOR731 urs|UmOR751 urs|UmOR773 urs|UmOR748 urs|UmOR749 urs|UmOR750 ail|AmOR.507 dog|DogOR.786 urs|UmOR735 ail|AmOR.542 ail|AmOR.543
+fam4: ail|AmOR.135 ail|AmOR.136 ail|AmOR.449 ail|AmOR.442 ail|AmOR.443 ail|AmOR.444 dog|DogOR.443 dog|DogOR.445 dog|DogOR.446 dog|DogOR.540 dog|DogOR.451 dog|DogOR.452 dog|DogOR.453 mus|Mm2OR7.6.123 mus|Mm2OR7.6.124 mus|Mm2OR7.6.131 mus|Mm2OR7.6.134 mus|Mm2OR7.8.35 mus|Mm2OR7.6.132 mus|Mm2OR7.6.133 urs|UmOR431 urs|UmOR460 urs|UmOR465 urs|UmOR469 urs|UmOR459 urs|UmOR461 urs|UmOR466 mus|Mm2OR7.6.130 urs|UmOR432
+fam5: ail|AmOR.579 ail|AmOR.645 mus|Mm2OR11.1.10 mus|Mm2OR11.1.11 mus|Mm2OR11.1.12 mus|Mm2OR11.1.13 mus|Mm2OR11.1.14 mus|Mm2OR11.1.5 mus|Mm2OR11.1.7 mus|Mm2OR11.1.8 mus|Mm2OR11.1.6 mus|Mm2OR11.1.18 mus|Mm2OR11.1.17 mus|Mm2OR11.3.1 mus|Mm2OR11.3.3 mus|Mm2OR11.1.19 mus|Mm2OR11.1.9 mus|Mm2OR11.1.16 mus|Mm2OR11.1.15 mus|Mm2OR11.3.2 urs|UmOR1048 urs|UmOR1049 urs|UmOR374 urs|UmOR375 urs|UmOR381 urs|UmOR382 urs|UmOR879 urs|UmOR880 dog|DogOR.675
+fam6: ail|AmOR.134 ail|AmOR.567 ail|AmOR.576 ail|AmOR.595 ail|AmOR.633 dog|DogOR.417 dog|DogOR.418 dog|DogOR.419 dog|DogOR.420 dog|DogOR.796 dog|DogOR.797 dog|DogOR.803 mus|Mm2OR7.6.86 mus|Mm2OR7.6.87 mus|Mm2OR7.6.90 mus|Mm2OR7.6.91 urs|UmOR1069 urs|UmOR449 urs|UmOR452 urs|UmOR782 urs|UmOR784 urs|UmOR901 urs|UmOR541 urs|UmOR783 urs|UmOR785 dog|DogOR.522 ail|AmOR.575
+fam7: dog|DogOR.663 dog|DogOR.782 dog|DogOR.664 dog|DogOR.665 dog|DogOR.666 dog|DogOR.787 dog|DogOR.667 mus|Mm2OR16.4.1 mus|Mm2OR16.4.2 mus|Mm2OR16.4.19 mus|Mm2OR16.4.3 mus|Mm2OR16.4.4 mus|Mm2OR16.4.5 mus|Mm2OR16.4.6 mus|Mm2OR16.4.7 urs|UmOR193 urs|UmOR196 urs|UmOR197 urs|UmOR201 urs|UmOR203 urs|UmOR204 urs|UmOR26 urs|UmOR200 urs|UmOR202 ail|AmOR.120 ail|AmOR.515 ail|AmOR.559
+fam8: ail|AmOR.236 ail|AmOR.581 ail|AmOR.580 ail|AmOR.582 dog|DogOR.712 dog|DogOR.713 dog|DogOR.714 dog|DogOR.715 dog|DogOR.716 dog|DogOR.717 dog|DogOR.718 mus|Mm2OR9.3.35 mus|Mm2OR9.3.37 urs|UmOR14 urs|UmOR416 urs|UmOR417 urs|UmOR419 urs|UmOR420 urs|UmOR663 urs|UmOR664 urs|UmOR665 urs|UmOR666 urs|UmOR667 urs|UmOR668 urs|UmOR418 mus|Mm2OR9.3.36
+fam9: ail|AmOR.298 ail|AmOR.495 ail|AmOR.496 ail|AmOR.587 dog|DogOR.45 dog|DogOR.46 dog|DogOR.63 dog|DogOR.64 dog|DogOR.65 urs|UmOR230 urs|UmOR231 urs|UmOR232 urs|UmOR233 urs|UmOR234 urs|UmOR235 urs|UmOR236 urs|UmOR237 urs|UmOR262 urs|UmOR263 urs|UmOR345 urs|UmOR346 urs|UmOR407 urs|UmOR618 urs|UmOR619 urs|UmOR743 mus|Mm2OR16.3.4
+fam10: ail|AmOR.422 ail|AmOR.423 ail|AmOR.424 dog|DogOR.210 dog|DogOR.212 mus|Mm2OR2.2.259 mus|Mm2OR2.2.260 mus|Mm2OR2.2.261 urs|UmOR1119 urs|UmOR1120 urs|UmOR1121 urs|UmOR1122 urs|UmOR1123 urs|UmOR1124 urs|UmOR1126 urs|UmOR1128 urs|UmOR1129 urs|UmOR951 urs|UmOR952 urs|UmOR953 urs|UmOR954 urs|UmOR955 urs|UmOR956 urs|UmOR958 urs|UmOR960 urs|UmOR961
+fam11: ail|AmOR.545 ail|AmOR.546 ail|AmOR.547 ail|AmOR.548 dog|DogOR.142 dog|DogOR.143 dog|DogOR.144 dog|DogOR.145 dog|DogOR.223 dog|DogOR.224 mus|Mm2OR19.1.51 mus|Mm2OR19.1.41 mus|Mm2OR19.1.53 mus|Mm2OR19.1.49 urs|UmOR157 urs|UmOR158 urs|UmOR160 urs|UmOR86 urs|UmOR159 urs|UmOR87 urs|UmOR161 ail|AmOR.544 ail|AmOR.81 urs|UmOR156 mus|Mm2OR19.1.35
+fam12: dog|DogOR.275 dog|DogOR.277 dog|DogOR.278 dog|DogOR.280 dog|DogOR.805 mus|Mm2OR2.2.182 mus|Mm2OR2.2.183 mus|Mm2OR2.2.185 urs|UmOR104 urs|UmOR105 urs|UmOR106 urs|UmOR107 urs|UmOR109 urs|UmOR111 urs|UmOR28 urs|UmOR29 urs|UmOR30 urs|UmOR31 urs|UmOR33 urs|UmOR35 urs|UmOR37 urs|UmOR39 ail|AmOR.369 dog|DogOR.273 ail|AmOR.577
+fam13: ail|AmOR.24 ail|AmOR.26 ail|AmOR.25 dog|DogOR.11 dog|DogOR.24 dog|DogOR.25 dog|DogOR.26 dog|DogOR.27 dog|DogOR.28 dog|DogOR.34 dog|DogOR.780 mus|Mm2OR4.1.4 mus|Mm2OR4.1.6 mus|Mm2OR4.1.7 mus|Mm2OR4.1.8 urs|UmOR1066 urs|UmOR1081 urs|UmOR838 urs|UmOR839 urs|UmOR840 urs|UmOR898 urs|UmOR913 ail|AmOR.311 urs|UmOR845
+fam14: mus|Mm2OR7.8.10 mus|Mm2OR7.8.14 mus|Mm2OR7.8.15 mus|Mm2OR7.8.16 mus|Mm2OR7.8.2 mus|Mm2OR7.8.24 mus|Mm2OR7.8.25 mus|Mm2OR7.8.29 mus|Mm2OR7.8.34 mus|Mm2OR7.8.38 mus|Mm2OR7.8.39 mus|Mm2OR7.8.42 mus|Mm2OR7.8.26 mus|Mm2OR7.8.27 mus|Mm2OR7.8.30 mus|Mm2OR7.8.3 mus|Mm2OR7.8.20 mus|Mm2OR7.8.18 mus|Mm2OR7.8.19 mus|Mm2OR7.8.17 mus|Mm2OR7.8.22 ail|AmOR.9 dog|DogOR.563 urs|UmOR174
+fam15: ail|AmOR.331 ail|AmOR.498 ail|AmOR.533 ail|AmOR.610 ail|AmOR.614 dog|DogOR.52 dog|DogOR.53 dog|DogOR.54 dog|DogOR.72 dog|DogOR.73 mus|Mm2OR11.4.10 mus|Mm2OR11.4.4 mus|Mm2OR11.4.5 mus|Mm2OR11.4.6 mus|Mm2OR11.4.7 mus|Mm2OR11.4.8 urs|UmOR290 urs|UmOR295 urs|UmOR296 urs|UmOR297 urs|UmOR305 urs|UmOR306 urs|UmOR307
+fam16: ail|AmOR.473 ail|AmOR.474 dog|DogOR.625 dog|DogOR.794 dog|DogOR.795 mus|Mm2OR10.4.13 mus|Mm2OR10.4.14 mus|Mm2OR10.4.15 mus|Mm2OR10.4.24 mus|Mm2OR10.4.26 mus|Mm2OR10.4.40 mus|Mm2OR10.4.27 mus|Mm2OR10.4.28 urs|UmOR1062 urs|UmOR757 urs|UmOR801 urs|UmOR893 urs|UmOR3 urs|UmOR755 ail|AmOR.471 dog|DogOR.593
+fam17: ail|AmOR.505 ail|AmOR.558 dog|DogOR.658 dog|DogOR.659 dog|DogOR.662 dog|DogOR.660 dog|DogOR.661 mus|Mm2OR16.4.15 mus|Mm2OR16.4.17 mus|Mm2OR16.4.20 urs|UmOR187 urs|UmOR188 urs|UmOR189 urs|UmOR190 urs|UmOR191 urs|UmOR192 urs|UmOR194 urs|UmOR195 urs|UmOR199 urs|UmOR198 mus|Mm2OR16.4.10
+fam18: ail|AmOR.528 ail|AmOR.530 urs|UmOR1072 urs|UmOR1073 urs|UmOR904 urs|UmOR905 urs|UmOR1074 urs|UmOR1075 urs|UmOR1076 urs|UmOR1077 urs|UmOR1078 urs|UmOR906 urs|UmOR907 urs|UmOR908 urs|UmOR909 urs|UmOR910 dog|DogOR.619 mus|Mm2OR6.5.5 ail|AmOR.529 ail|AmOR.590 dog|DogOR.616
+fam19: mus|Mm2OR2.3.34 mus|Mm2OR2.3.35 mus|Mm2OR2.3.36 mus|Mm2OR2.3.40 mus|Mm2OR2.3.42 mus|Mm2OR2.3.43 mus|Mm2OR2.3.44 mus|Mm2OR2.3.38 mus|Mm2OR2.3.39 urs|UmOR1084 urs|UmOR1087 urs|UmOR916 urs|UmOR919 urs|UmOR1085 urs|UmOR917 urs|UmOR1088 urs|UmOR920 ail|AmOR.408 ail|AmOR.409 ail|AmOR.411 dog|DogOR.641
+fam20: ail|AmOR.108 ail|AmOR.109 dog|DogOR.468 dog|DogOR.469 dog|DogOR.470 dog|DogOR.471 dog|DogOR.472 mus|Mm2OR7.7.1 mus|Mm2OR7.7.11 mus|Mm2OR7.7.13 mus|Mm2OR7.7.2 mus|Mm2OR7.7.6 mus|Mm2OR7.7.7 mus|Mm2OR7.7.8 mus|Mm2OR7.7.12 mus|Mm2OR7.7.5 mus|Mm2OR7.7.3 mus|Mm2OR7.7.14 mus|Mm2OR7.7.9 urs|UmOR503
+fam21: ail|AmOR.179 ail|AmOR.632 dog|DogOR.188 dog|DogOR.189 dog|DogOR.190 dog|DogOR.191 mus|Mm2OR2.2.127 mus|Mm2OR2.2.131 mus|Mm2OR2.2.143 mus|Mm2OR2.2.150 mus|Mm2OR2.2.132 mus|Mm2OR2.2.135 mus|Mm2OR2.2.138 mus|Mm2OR2.2.139 mus|Mm2OR2.2.151 mus|Mm2OR2.2.152 urs|UmOR117 urs|UmOR118 urs|UmOR119 urs|UmOR120
+fam22: ail|AmOR.34 ail|AmOR.35 ail|AmOR.36 ail|AmOR.89 dog|DogOR.105 dog|DogOR.125 dog|DogOR.126 dog|DogOR.783 dog|DogOR.127 mus|Mm2OR6.1.2 mus|Mm2OR6.2.1 urs|UmOR1093 urs|UmOR1094 urs|UmOR1109 urs|UmOR1110 urs|UmOR925 urs|UmOR926 urs|UmOR941 urs|UmOR942 mus|Mm2OR6.1.1
+fam23: ail|AmOR.348 ail|AmOR.461 ail|AmOR.578 dog|DogOR.195 dog|DogOR.200 dog|DogOR.202 dog|DogOR.208 dog|DogOR.211 mus|Mm2OR2.2.255 mus|Mm2OR2.2.256 urs|UmOR103 urs|UmOR108 urs|UmOR1113 urs|UmOR1118 urs|UmOR112 urs|UmOR113 urs|UmOR32 urs|UmOR36 urs|UmOR945 urs|UmOR950
+fam24: dog|DogOR.567 dog|DogOR.568 dog|DogOR.569 dog|DogOR.570 dog|DogOR.571 dog|DogOR.572 dog|DogOR.573 dog|DogOR.574 dog|DogOR.575 dog|DogOR.576 dog|DogOR.577 dog|DogOR.578 dog|DogOR.579 mus|Mm2OR1.1.4 mus|Mm2OR1.1.5 mus|Mm2OR1.1.6 mus|Mm2OR1.1.7 mus|Mm2OR1.1.8 ail|AmOR.60 urs|UmOR274
+fam25: dog|DogOR.478 dog|DogOR.479 dog|DogOR.480 dog|DogOR.481 dog|DogOR.555 mus|Mm2OR7.7.15 mus|Mm2OR7.7.16 mus|Mm2OR7.7.17 urs|UmOR181 urs|UmOR182 urs|UmOR491 urs|UmOR499 urs|UmOR504 ail|AmOR.101 ail|AmOR.110 dog|DogOR.467 mus|Mm2OR7.7.10 ail|AmOR.600 mus|Mm2OR7.7.28
+fam26: ail|AmOR.152 ail|AmOR.159 ail|AmOR.160 ail|AmOR.161 ail|AmOR.187 dog|DogOR.177 dog|DogOR.178 dog|DogOR.253 dog|DogOR.254 dog|DogOR.260 mus|Mm2OR2.2.104 mus|Mm2OR2.2.96 urs|UmOR127 urs|UmOR128 urs|UmOR52 urs|UmOR57 urs|UmOR58 mus|Mm2OR2.2.90
+fam27: dog|DogOR.304 dog|DogOR.305 dog|DogOR.306 dog|DogOR.307 urs|UmOR1154 urs|UmOR1156 urs|UmOR1157 urs|UmOR1158 urs|UmOR1159 urs|UmOR1160 urs|UmOR986 urs|UmOR988 urs|UmOR989 urs|UmOR990 urs|UmOR991 urs|UmOR992 ail|AmOR.460 mus|Mm2OR2.2.253
+fam28: ail|AmOR.266 ail|AmOR.631 dog|DogOR.774 dog|DogOR.775 mus|Mm2OR11.6.1 mus|Mm2OR11.6.2 mus|Mm2OR11.6.4 mus|Mm2OR11.6.6 mus|Mm2OR11.6.20 mus|Mm2OR11.6.17 mus|Mm2OR11.6.24 urs|UmOR1041 urs|UmOR872 urs|UmOR1043 urs|UmOR874 mus|Mm2OR11.6.26 ail|AmOR.465
+fam29: ail|AmOR.292 ail|AmOR.427 dog|DogOR.315 dog|DogOR.319 dog|DogOR.320 mus|Mm2OR2.2.268 mus|Mm2OR2.2.269 mus|Mm2OR2.2.273 mus|Mm2OR2.2.274 mus|Mm2OR2.2.271 mus|Mm2OR2.2.272 urs|UmOR1001 urs|UmOR1002 urs|UmOR1165 urs|UmOR1169 urs|UmOR1170 urs|UmOR997
+fam30: ail|AmOR.44 ail|AmOR.45 ail|AmOR.87 ail|AmOR.88 dog|DogOR.120 dog|DogOR.121 dog|DogOR.122 dog|DogOR.123 mus|Mm2OR6.3.6 mus|Mm2OR6.3.7 mus|Mm2OR6.3.8 urs|UmOR1105 urs|UmOR1106 urs|UmOR1107 urs|UmOR937 urs|UmOR938 urs|UmOR939
+fam31: ail|AmOR.453 ail|AmOR.455 ail|AmOR.484 ail|AmOR.485 ail|AmOR.487 dog|DogOR.324 dog|DogOR.325 dog|DogOR.326 dog|DogOR.362 dog|DogOR.363 urs|UmOR385 urs|UmOR386 urs|UmOR389 urs|UmOR390 urs|UmOR847 urs|UmOR848 mus|Mm2OR17.2.4
+fam32: dog|DogOR.111 dog|DogOR.112 dog|DogOR.113 dog|DogOR.116 mus|Mm2OR6.3.12 mus|Mm2OR6.3.20 mus|Mm2OR6.3.16 mus|Mm2OR6.3.18 urs|UmOR1097 urs|UmOR929 urs|UmOR1098 urs|UmOR1101 urs|UmOR930 urs|UmOR933 ail|AmOR.37 mus|Mm2OR6.3.21 ail|AmOR.40
+fam33: dog|DogOR.216 dog|DogOR.217 dog|DogOR.218 dog|DogOR.219 dog|DogOR.220 mus|Mm2OR19.1.6 mus|Mm2OR19.1.9 mus|Mm2OR19.1.7 mus|Mm2OR19.1.8 urs|UmOR90 urs|UmOR91 urs|UmOR93 urs|UmOR92 ail|AmOR.320 ail|AmOR.523 ail|AmOR.524 mus|Mm2OR19.1.10
+fam34: dog|DogOR.302 dog|DogOR.789 mus|Mm2OR2.2.236 mus|Mm2OR2.2.238 mus|Mm2OR2.2.243 mus|Mm2OR2.2.244 mus|Mm2OR2.2.247 mus|Mm2OR2.2.249 mus|Mm2OR2.2.251 mus|Mm2OR2.2.242 mus|Mm2OR2.2.250 mus|Mm2OR2.2.245 mus|Mm2OR2.2.248 mus|Mm2OR2.2.246 urs|UmOR1152 urs|UmOR984 ail|AmOR.394
+fam35: mus|Mm2OR11.4.14 mus|Mm2OR11.4.15 mus|Mm2OR11.4.16 mus|Mm2OR11.4.18 urs|UmOR238 urs|UmOR239 urs|UmOR240 urs|UmOR241 urs|UmOR333 urs|UmOR337 urs|UmOR341 urs|UmOR344 urs|UmOR338 urs|UmOR340 ail|AmOR.203 ail|AmOR.367 dog|DogOR.39
+fam36: ail|AmOR.105 ail|AmOR.106 ail|AmOR.107 ail|AmOR.605 dog|DogOR.457 dog|DogOR.547 dog|DogOR.548 dog|DogOR.549 dog|DogOR.550 mus|Mm2OR7.6.149 mus|Mm2OR7.6.150 urs|UmOR455 urs|UmOR495 urs|UmOR497 urs|UmOR498 urs|UmOR496
+fam37: ail|AmOR.132 ail|AmOR.133 dog|DogOR.422 dog|DogOR.423 dog|DogOR.529 dog|DogOR.528 mus|Mm2OR7.6.81 mus|Mm2OR7.6.95 mus|Mm2OR7.6.93 mus|Mm2OR7.6.94 urs|UmOR446 urs|UmOR447 urs|UmOR485 ail|AmOR.149 urs|UmOR484 ail|AmOR.150
+fam38: ail|AmOR.295 ail|AmOR.297 dog|DogOR.47 dog|DogOR.48 dog|DogOR.49 dog|DogOR.50 dog|DogOR.51 urs|UmOR322 urs|UmOR348 urs|UmOR611 urs|UmOR613 urs|UmOR614 urs|UmOR620 urs|UmOR610 mus|Mm2OR11.4.20 ail|AmOR.325
+fam39: mus|Mm2OR7.6.4 mus|Mm2OR7.6.5 urs|UmOR1007 urs|UmOR1019 urs|UmOR1020 urs|UmOR1021 urs|UmOR1175 urs|UmOR1187 urs|UmOR1188 urs|UmOR1189 urs|UmOR1018 urs|UmOR1186 ail|AmOR.143 dog|DogOR.488 ail|AmOR.268 dog|DogOR.388
+fam40: ail|AmOR.162 ail|AmOR.163 ail|AmOR.164 ail|AmOR.165 ail|AmOR.172 dog|DogOR.242 dog|DogOR.248 dog|DogOR.250 dog|DogOR.252 mus|Mm2OR2.2.57 mus|Mm2OR2.2.69 mus|Mm2OR2.2.73 urs|UmOR60 urs|UmOR62 urs|UmOR69
+fam41: ail|AmOR.190 ail|AmOR.191 ail|AmOR.192 dog|DogOR.171 dog|DogOR.172 dog|DogOR.173 mus|Mm2OR2.2.44 mus|Mm2OR2.2.45 mus|Mm2OR2.2.46 mus|Mm2OR2.2.48 urs|UmOR131 urs|UmOR132 urs|UmOR134 urs|UmOR135 urs|UmOR133
+fam42: ail|AmOR.299 ail|AmOR.3 ail|AmOR.300 ail|AmOR.4 dog|DogOR.763 dog|DogOR.765 dog|DogOR.764 mus|Mm2OR11.7.1 mus|Mm2OR11.7.2 mus|Mm2OR11.7.3 urs|UmOR815 urs|UmOR816 urs|UmOR817 urs|UmOR819 urs|UmOR818
+fam43: ail|AmOR.387 ail|AmOR.388 ail|AmOR.390 ail|AmOR.391 urs|UmOR1140 urs|UmOR1142 urs|UmOR1143 urs|UmOR1145 urs|UmOR1146 urs|UmOR972 urs|UmOR974 urs|UmOR975 urs|UmOR977 urs|UmOR978 dog|DogOR.296
+fam44: ail|AmOR.470 ail|AmOR.636 dog|DogOR.592 dog|DogOR.594 mus|Mm2OR10.4.23 mus|Mm2OR10.4.38 mus|Mm2OR10.4.42 mus|Mm2OR10.4.43 mus|Mm2OR10.4.48 mus|Mm2OR10.4.49 mus|Mm2OR10.4.54 mus|Mm2OR10.4.55 urs|UmOR640 urs|UmOR641 urs|UmOR802
+fam45: mus|Mm2OR2.1.10 mus|Mm2OR2.1.11 mus|Mm2OR2.1.12 mus|Mm2OR2.1.5 mus|Mm2OR2.1.8 mus|Mm2OR2.1.4 mus|Mm2OR2.1.6 mus|Mm2OR2.1.7 mus|Mm2OR2.1.13 mus|Mm2OR2.1.14 mus|Mm2OR2.1.15 mus|Mm2OR2.1.19 urs|UmOR1042 urs|UmOR873 ail|AmOR.466
+fam46: mus|Mm2OR2.2.209 mus|Mm2OR2.2.211 mus|Mm2OR2.2.219 mus|Mm2OR2.2.218 mus|Mm2OR2.2.220 mus|Mm2OR2.2.213 mus|Mm2OR2.2.222 mus|Mm2OR2.2.210 mus|Mm2OR2.2.212 mus|Mm2OR2.2.221 mus|Mm2OR2.2.215 mus|Mm2OR2.2.216 mus|Mm2OR2.2.217 mus|Mm2OR2.2.214 mus|Mm2OR2.2.228
+fam47: ail|AmOR.168 ail|AmOR.169 dog|DogOR.245 dog|DogOR.246 dog|DogOR.247 dog|DogOR.781 mus|Mm2OR2.2.84 mus|Mm2OR2.2.86 mus|Mm2OR2.2.88 mus|Mm2OR2.2.91 mus|Mm2OR2.2.93 urs|UmOR65 urs|UmOR66 mus|Mm2OR2.2.66
+fam48: ail|AmOR.259 ail|AmOR.362 dog|DogOR.711 dog|DogOR.745 mus|Mm2OR9.3.10 mus|Mm2OR9.3.12 mus|Mm2OR9.3.15 mus|Mm2OR9.3.16 mus|Mm2OR9.3.18 mus|Mm2OR9.3.17 mus|Mm2OR9.3.14 mus|Mm2OR9.3.13 urs|UmOR422 urs|UmOR705
+fam49: ail|AmOR.7 ail|AmOR.8 dog|DogOR.564 dog|DogOR.565 dog|DogOR.566 mus|Mm2OR7.8.43 mus|Mm2OR7.8.46 mus|Mm2OR7.8.47 mus|Mm2OR7.8.48 mus|Mm2OR7.8.49 mus|Mm2OR7.8.45 urs|UmOR171 urs|UmOR172 urs|UmOR173
+fam50: dog|DogOR.736 dog|DogOR.737 mus|Mm2OR9.3.100 mus|Mm2OR9.3.101 mus|Mm2OR9.3.102 mus|Mm2OR9.3.104 mus|Mm2OR9.3.99 mus|Mm2OR9.3.103 mus|Mm2OR9.3.105 urs|UmOR676 urs|UmOR677 ail|AmOR.251 ail|AmOR.252 urs|UmOR678
+fam51: ail|AmOR.116 ail|AmOR.118 ail|AmOR.119 dog|DogOR.461 dog|DogOR.463 dog|DogOR.464 dog|DogOR.546 mus|Mm2OR7.6.144 mus|Mm2OR7.6.146 urs|UmOR1067 urs|UmOR509 urs|UmOR510 urs|UmOR899
+fam52: ail|AmOR.151 ail|AmOR.180 dog|DogOR.184 dog|DogOR.186 dog|DogOR.261 mus|Mm2OR2.2.120 mus|Mm2OR2.2.125 mus|Mm2OR2.2.129 mus|Mm2OR2.2.130 mus|Mm2OR2.2.121 mus|Mm2OR2.2.144 urs|UmOR122 urs|UmOR51
+fam53: ail|AmOR.210 ail|AmOR.212 dog|DogOR.605 dog|DogOR.606 dog|DogOR.607 dog|DogOR.608 mus|Mm2OR15.1.7 mus|Mm2OR15.1.8 urs|UmOR1055 urs|UmOR1060 urs|UmOR886 urs|UmOR891 ail|AmOR.211
+fam54: ail|AmOR.564 ail|AmOR.634 dog|DogOR.204 dog|DogOR.276 dog|DogOR.279 dog|DogOR.281 dog|DogOR.804 mus|Mm2OR2.2.195 mus|Mm2OR2.2.196 mus|Mm2OR2.2.199 urs|UmOR110 urs|UmOR27 urs|UmOR34
+fam55: ail|AmOR.61 ail|AmOR.62 dog|DogOR.160 dog|DogOR.232 dog|DogOR.233 mus|Mm2OR2.2.26 mus|Mm2OR2.2.27 mus|Mm2OR2.2.29 urs|UmOR78 urs|UmOR79 urs|UmOR80 urs|UmOR81 mus|Mm2OR2.2.25
+fam56: dog|DogOR.655 dog|DogOR.657 dog|DogOR.656 mus|Mm2OR16.4.18 mus|Mm2OR16.4.27 mus|Mm2OR16.4.22 mus|Mm2OR16.4.24 urs|UmOR183 urs|UmOR184 urs|UmOR185 urs|UmOR186 ail|AmOR.27 ail|AmOR.28
+fam57: ail|AmOR.242 ail|AmOR.243 ail|AmOR.258 dog|DogOR.723 dog|DogOR.743 dog|DogOR.744 mus|Mm2OR9.3.110 mus|Mm2OR9.3.111 mus|Mm2OR9.3.112 urs|UmOR692 urs|UmOR703 urs|UmOR704
+fam58: ail|AmOR.352 ail|AmOR.598 ail|AmOR.629 mus|Mm2OR2.2.197 mus|Mm2OR2.2.205 urs|UmOR1133 urs|UmOR1136 urs|UmOR1138 urs|UmOR965 urs|UmOR968 urs|UmOR970 dog|DogOR.288
+fam59: ail|AmOR.413 ail|AmOR.414 ail|AmOR.417 ail|AmOR.419 dog|DogOR.584 dog|DogOR.586 dog|DogOR.603 mus|Mm2OR10.4.64 mus|Mm2OR10.4.65 urs|UmOR638 urs|UmOR647 urs|UmOR648
+fam60: ail|AmOR.468 ail|AmOR.5 urs|UmOR1023 urs|UmOR1024 urs|UmOR1025 urs|UmOR1039 urs|UmOR854 urs|UmOR855 urs|UmOR856 urs|UmOR870 dog|DogOR.769 mus|Mm2OR2.1.22
+fam61: ail|AmOR.95 ail|AmOR.97 dog|DogOR.2 dog|DogOR.3 dog|DogOR.4 mus|Mm2OR7.2.2 mus|Mm2OR7.2.4 mus|Mm2OR7.2.5 mus|Mm2OR7.2.6 urs|UmOR317 urs|UmOR320 urs|UmOR321
+fam62: dog|DogOR.323 dog|DogOR.327 dog|DogOR.364 mus|Mm2OR17.2.1 mus|Mm2OR17.2.2 mus|Mm2OR17.2.3 ail|AmOR.454 urs|UmOR387 urs|UmOR391 ail|AmOR.456 ail|AmOR.488 urs|UmOR384
+fam63: ail|AmOR.124 ail|AmOR.125 dog|DogOR.430 dog|DogOR.431 dog|DogOR.536 dog|DogOR.537 mus|Mm2OR7.6.113 mus|Mm2OR7.6.114 urs|UmOR435 urs|UmOR436 urs|UmOR437
+fam64: ail|AmOR.280 ail|AmOR.281 dog|DogOR.491 dog|DogOR.492 mus|Mm2OR7.6.16 mus|Mm2OR7.6.17 urs|UmOR1004 urs|UmOR1172 urs|UmOR542 urs|UmOR543 urs|UmOR545
+fam65: ail|AmOR.377 ail|AmOR.378 ail|AmOR.379 dog|DogOR.263 dog|DogOR.264 dog|DogOR.265 urs|UmOR47 urs|UmOR48 urs|UmOR49 mus|Mm2OR2.2.155 mus|Mm2OR2.2.156
+fam66: ail|AmOR.396 ail|AmOR.397 mus|Mm2OR16.3.1 mus|Mm2OR16.3.2 urs|UmOR289 urs|UmOR608 urs|UmOR616 urs|UmOR821 urs|UmOR822 ail|AmOR.395 dog|DogOR.71
+fam67: ail|AmOR.516 ail|AmOR.517 ail|AmOR.518 dog|DogOR.771 dog|DogOR.772 dog|DogOR.773 mus|Mm2OR11.6.32 mus|Mm2OR11.6.33 mus|Mm2OR11.6.43 mus|Mm2OR11.6.44 urs|UmOR803
+fam68: ail|AmOR.58 ail|AmOR.59 dog|DogOR.580 dog|DogOR.581 dog|DogOR.810 dog|DogOR.812 mus|Mm2OR1.1.1 mus|Mm2OR1.1.2 mus|Mm2OR1.1.3 urs|UmOR272 urs|UmOR273
+fam69: dog|DogOR.85 dog|DogOR.86 dog|DogOR.87 mus|Mm2OR14.3.16 mus|Mm2OR14.3.17 mus|Mm2OR14.3.18 mus|Mm2OR14.3.20 mus|Mm2OR14.3.22 mus|Mm2OR14.3.19 mus|Mm2OR14.3.21 urs|UmOR742
+fam70: mus|Mm2OR9.3.21 mus|Mm2OR9.3.22 mus|Mm2OR9.3.23 mus|Mm2OR9.3.30 mus|Mm2OR9.3.28 mus|Mm2OR9.3.25 mus|Mm2OR9.3.29 mus|Mm2OR9.3.24 mus|Mm2OR9.3.27 ail|AmOR.364 urs|UmOR421
+fam71: ail|AmOR.112 ail|AmOR.114 ail|AmOR.115 ail|AmOR.113 mus|Mm2OR7.6.154 mus|Mm2OR7.6.155 urs|UmOR506 urs|UmOR507 urs|UmOR508 dog|DogOR.465
+fam72: ail|AmOR.271 ail|AmOR.272 dog|DogOR.391 dog|DogOR.392 urs|UmOR1014 urs|UmOR1015 urs|UmOR1182 urs|UmOR1183 urs|UmOR544 mus|Mm2OR7.6.9
+fam73: ail|AmOR.316 ail|AmOR.572 ail|AmOR.571 dog|DogOR.15 dog|DogOR.16 dog|DogOR.17 urs|UmOR835 urs|UmOR836 urs|UmOR837 mus|Mm2OR4.2.5
+fam74: ail|AmOR.386 ail|AmOR.392 ail|AmOR.620 dog|DogOR.207 dog|DogOR.298 urs|UmOR1116 urs|UmOR1148 urs|UmOR948 urs|UmOR980 mus|Mm2OR2.2.189
+fam75: ail|AmOR.48 ail|AmOR.49 dog|DogOR.353 dog|DogOR.354 dog|DogOR.355 dog|DogOR.356 urs|UmOR629 urs|UmOR630 urs|UmOR631 urs|UmOR632
+fam76: ail|AmOR.560 ail|AmOR.561 ail|AmOR.617 mus|Mm2OR11.6.34 mus|Mm2OR11.6.35 urs|UmOR804 urs|UmOR805 urs|UmOR806 urs|UmOR807 dog|DogOR.770
+fam77: ail|AmOR.98 ail|AmOR.99 dog|DogOR.360 dog|DogOR.361 urs|UmOR793 urs|UmOR794 urs|UmOR795 mus|Mm2OR16.1.1 mus|Mm2OR8.1.3 urs|UmOR383
+fam78: dog|DogOR.310 dog|DogOR.313 urs|UmOR1163 urs|UmOR1164 urs|UmOR995 urs|UmOR996 ail|AmOR.425 mus|Mm2OR2.2.262 ail|AmOR.426 mus|Mm2OR2.2.264
+fam79: dog|DogOR.412 dog|DogOR.413 dog|DogOR.414 mus|Mm2OR7.6.57 mus|Mm2OR7.6.58 urs|UmOR533 urs|UmOR535 urs|UmOR534 ail|AmOR.482 mus|Mm2OR7.6.59
+fam80: dog|DogOR.650 dog|DogOR.94 dog|DogOR.95 mus|Mm2OR14.3.11 mus|Mm2OR14.3.12 urs|UmOR650 urs|UmOR657 ail|AmOR.532 mus|Mm2OR14.3.1 urs|UmOR760
+fam81: mus|Mm2OR17.3.33 mus|Mm2OR17.3.34 mus|Mm2OR17.3.35 mus|Mm2OR17.3.36 mus|Mm2OR17.3.37 mus|Mm2OR17.3.45 urs|UmOR12 urs|UmOR377 ail|AmOR.520 dog|DogOR.673
+fam82: mus|Mm2OR7.4.12 mus|Mm2OR7.4.16 mus|Mm2OR7.4.7 mus|Mm2OR7.4.4 mus|Mm2OR7.4.6 urs|UmOR1003 urs|UmOR1171 urs|UmOR257 urs|UmOR258 urs|UmOR259
+fam83: mus|Mm2OR9.3.3 mus|Mm2OR9.3.4 mus|Mm2OR9.3.5 mus|Mm2OR9.3.7 ail|AmOR.359 dog|DogOR.708 urs|UmOR424 ail|AmOR.85 dog|DogOR.705 urs|UmOR426
+fam84: mus|Mm2OR9.3.66 mus|Mm2OR9.3.86 mus|Mm2OR9.3.71 mus|Mm2OR9.3.73 mus|Mm2OR9.3.69 mus|Mm2OR9.3.72 mus|Mm2OR9.3.77 mus|Mm2OR9.3.74 mus|Mm2OR9.3.80 mus|Mm2OR9.3.83
+fam85: ail|AmOR.250 ail|AmOR.255 dog|DogOR.734 dog|DogOR.740 mus|Mm2OR9.3.62 mus|Mm2OR9.3.89 mus|Mm2OR9.3.96 urs|UmOR674 urs|UmOR681
+fam86: ail|AmOR.286 ail|AmOR.287 urs|UmOR368 urs|UmOR369 urs|UmOR370 urs|UmOR371 urs|UmOR372 dog|DogOR.676 mus|Mm2OR13.1.4
+fam87: ail|AmOR.477 ail|AmOR.478 ail|AmOR.480 dog|DogOR.509 dog|DogOR.510 mus|Mm2OR7.6.61 mus|Mm2OR7.6.64 urs|UmOR566 urs|UmOR568
+fam88: ail|AmOR.491 ail|AmOR.492 mus|Mm2OR2.1.31 mus|Mm2OR2.1.32 urs|UmOR1031 urs|UmOR1032 urs|UmOR862 urs|UmOR863 dog|DogOR.779
+fam89: ail|AmOR.53 ail|AmOR.55 ail|AmOR.57 ail|AmOR.56 urs|UmOR625 urs|UmOR628 dog|DogOR.383 urs|UmOR626 dog|DogOR.385
+fam90: dog|DogOR.132 dog|DogOR.133 dog|DogOR.135 mus|Mm2OR19.1.15 mus|Mm2OR19.1.18 mus|Mm2OR19.1.19 mus|Mm2OR19.1.21 mus|Mm2OR19.1.20 urs|UmOR167
+fam91: dog|DogOR.36 dog|DogOR.626 dog|DogOR.630 dog|DogOR.784 dog|DogOR.808 dog|DogOR.811 mus|Mm2OR10.4.25 mus|Mm2OR10.4.39 urs|UmOR756
+fam92: dog|DogOR.421 dog|DogOR.515 dog|DogOR.798 dog|DogOR.802 urs|UmOR540 urs|UmOR573 urs|UmOR787 urs|UmOR790 ail|AmOR.574
+fam93: dog|DogOR.448 dog|DogOR.449 dog|DogOR.450 mus|Mm2OR7.6.126 mus|Mm2OR7.6.128 urs|UmOR462 urs|UmOR463 urs|UmOR464 ail|AmOR.602
+fam94: dog|DogOR.473 dog|DogOR.474 dog|DogOR.476 dog|DogOR.477 mus|Mm2OR7.7.23 mus|Mm2OR7.7.24 urs|UmOR501 urs|UmOR502 ail|AmOR.551
+fam95: dog|DogOR.487 dog|DogOR.490 mus|Mm2OR7.6.10 mus|Mm2OR7.6.11 urs|UmOR1005 urs|UmOR1013 urs|UmOR1173 urs|UmOR1181 ail|AmOR.279
+fam96: dog|DogOR.496 dog|DogOR.497 mus|Mm2OR7.6.27 mus|Mm2OR7.6.42 mus|Mm2OR7.6.44 urs|UmOR549 urs|UmOR550 urs|UmOR551 urs|UmOR552
+fam97: dog|DogOR.542 dog|DogOR.543 dog|DogOR.544 mus|Mm2OR7.6.136 mus|Mm2OR7.6.140 urs|UmOR427 urs|UmOR428 urs|UmOR429 ail|AmOR.451
+fam98: dog|DogOR.687 dog|DogOR.809 ail|AmOR.226 mus|Mm2OR1.3.9 urs|UmOR212 ail|AmOR.227 dog|DogOR.686 urs|UmOR211 mus|Mm2OR1.3.10
+fam99: mus|Mm2OR17.3.27 mus|Mm2OR17.3.28 mus|Mm2OR17.3.29 mus|Mm2OR17.3.30 mus|Mm2OR17.3.31 mus|Mm2OR17.3.44 mus|Mm2OR17.3.42 mus|Mm2OR17.3.43 mus|Mm2OR17.3.41
+fam100: mus|Mm2OR2.2.263 mus|Mm2OR2.2.267 mus|Mm2OR2.2.270 mus|Mm2OR2.2.275 mus|Mm2OR2.2.276 urs|UmOR1000 urs|UmOR1168 ail|AmOR.430 dog|DogOR.318
+fam101: mus|Mm2OR2.3.16 mus|Mm2OR2.3.20 mus|Mm2OR2.3.21 mus|Mm2OR2.3.24 mus|Mm2OR2.3.25 mus|Mm2OR2.3.28 mus|Mm2OR2.3.23 mus|Mm2OR2.3.27 urs|UmOR653
+fam102: mus|Mm2OR4.4.10 mus|Mm2OR4.4.12 mus|Mm2OR4.4.13 mus|Mm2OR4.4.14 mus|Mm2OR4.4.15 mus|Mm2OR4.4.7 mus|Mm2OR4.4.8 mus|Mm2OR4.4.9 ail|AmOR.302
+fam103: mus|Mm2OR6.3.13 mus|Mm2OR6.3.22 urs|UmOR1096 urs|UmOR928 urs|UmOR1100 urs|UmOR932 ail|AmOR.39 dog|DogOR.115 dog|DogOR.109
+fam104: mus|Mm2OR7.4.1 mus|Mm2OR7.4.15 mus|Mm2OR7.4.17 mus|Mm2OR7.4.18 mus|Mm2OR7.4.11 mus|Mm2OR7.4.9 mus|Mm2OR7.4.13 ail|AmOR.398 urs|UmOR304
+fam105: mus|Mm2OR7.8.1 mus|Mm2OR7.8.4 urs|UmOR179 urs|UmOR180 ail|AmOR.13 dog|DogOR.482 dog|DogOR.483 mus|Mm2OR7.8.13 ail|AmOR.14
+fam106: mus|Mm2OR7.9.12 mus|Mm2OR7.9.15 mus|Mm2OR7.9.16 mus|Mm2OR7.9.17 mus|Mm2OR7.9.18 mus|Mm2OR7.9.19 mus|Mm2OR7.9.21 mus|Mm2OR7.9.22 mus|Mm2OR7.9.7
+fam107: ail|AmOR.10 ail|AmOR.12 dog|DogOR.484 dog|DogOR.562 urs|UmOR175 urs|UmOR178 mus|Mm2OR7.8.11 mus|Mm2OR7.8.41
+fam108: ail|AmOR.173 ail|AmOR.174 dog|DogOR.240 dog|DogOR.241 mus|Mm2OR2.2.55 mus|Mm2OR2.2.56 urs|UmOR70 urs|UmOR71
+fam109: ail|AmOR.415 ail|AmOR.416 dog|DogOR.599 dog|DogOR.704 dog|DogOR.602 mus|Mm2OR10.4.62 mus|Mm2OR10.4.63 urs|UmOR646
+fam110: ail|AmOR.447 ail|AmOR.452 dog|DogOR.455 dog|DogOR.545 ail|AmOR.445 mus|Mm2OR7.6.135 urs|UmOR458 mus|Mm2OR7.6.142
+fam111: ail|AmOR.63 ail|AmOR.64 dog|DogOR.229 dog|DogOR.230 mus|Mm2OR2.2.1 mus|Mm2OR2.2.2 mus|Mm2OR2.2.6 urs|UmOR82
+fam112: dog|DogOR.225 dog|DogOR.226 ail|AmOR.67 mus|Mm2OR19.1.74 urs|UmOR84 ail|AmOR.68 mus|Mm2OR19.1.71 urs|UmOR85
+fam113: dog|DogOR.249 dog|DogOR.251 urs|UmOR59 urs|UmOR61 urs|UmOR63 urs|UmOR64 ail|AmOR.166 mus|Mm2OR2.2.68
+fam114: dog|DogOR.397 dog|DogOR.500 mus|Mm2OR7.6.28 mus|Mm2OR7.6.33 ail|AmOR.277 urs|UmOR518 ail|AmOR.613 urs|UmOR555
+fam115: dog|DogOR.406 dog|DogOR.408 dog|DogOR.504 mus|Mm2OR7.6.49 mus|Mm2OR7.6.54 urs|UmOR529 urs|UmOR562 ail|AmOR.591
+fam116: dog|DogOR.741 dog|DogOR.742 ail|AmOR.256 mus|Mm2OR9.3.107 urs|UmOR701 ail|AmOR.257 mus|Mm2OR9.3.108 urs|UmOR702
+fam117: mus|Mm2OR10.4.31 mus|Mm2OR10.4.35 mus|Mm2OR10.4.45 mus|Mm2OR10.4.46 mus|Mm2OR10.4.50 ail|AmOR.475 urs|UmOR754 urs|UmOR772
+fam118: mus|Mm2OR10.4.47 mus|Mm2OR10.4.53 mus|Mm2OR10.4.61 ail|AmOR.585 dog|DogOR.595 urs|UmOR642 dog|DogOR.583 urs|UmOR636
+fam119: mus|Mm2OR19.1.60 mus|Mm2OR19.1.61 mus|Mm2OR19.1.62 mus|Mm2OR19.1.63 mus|Mm2OR19.1.64 ail|AmOR.80 dog|DogOR.147 urs|UmOR155
+fam120: mus|Mm2OR2.2.207 mus|Mm2OR2.2.208 mus|Mm2OR2.2.229 mus|Mm2OR2.2.232 urs|UmOR1141 urs|UmOR973 ail|AmOR.385 dog|DogOR.297
+fam121: mus|Mm2OR7.6.19 mus|Mm2OR7.6.22 urs|UmOR516 urs|UmOR547 urs|UmOR548 ail|AmOR.283 dog|DogOR.494 ail|AmOR.284
+fam122: mus|Mm2OR7.6.24 mus|Mm2OR7.6.43 mus|Mm2OR7.6.45 urs|UmOR517 urs|UmOR519 ail|AmOR.285 dog|DogOR.495 dog|DogOR.396
+fam123: mus|Mm2OR9.3.38 mus|Mm2OR9.3.44 mus|Mm2OR9.3.40 mus|Mm2OR9.3.41 mus|Mm2OR9.3.42 mus|Mm2OR9.3.50 mus|Mm2OR9.3.51 mus|Mm2OR9.3.43
+fam124: urs|UmOR249 urs|UmOR252 urs|UmOR253 urs|UmOR254 urs|UmOR255 ail|AmOR.402 mus|Mm2OR13.2.1 ail|AmOR.404
+fam125: urs|UmOR283 urs|UmOR284 urs|UmOR285 urs|UmOR286 urs|UmOR287 urs|UmOR288 ail|AmOR.438 dog|DogOR.379
+fam126: ail|AmOR.137 ail|AmOR.138 mus|Mm2OR7.6.122 mus|Mm2OR7.8.36 urs|UmOR467 urs|UmOR468 dog|DogOR.444
+fam127: ail|AmOR.231 ail|AmOR.232 dog|DogOR.681 dog|DogOR.682 mus|Mm2OR1.3.1 mus|Mm2OR1.3.2 urs|UmOR207
+fam128: ail|AmOR.234 ail|AmOR.304 mus|Mm2OR1.2.5 mus|Mm2OR1.2.6 dog|DogOR.679 dog|DogOR.695 urs|UmOR220
+fam129: ail|AmOR.293 ail|AmOR.294 urs|UmOR1130 urs|UmOR1131 urs|UmOR962 urs|UmOR963 dog|DogOR.213
+fam130: ail|AmOR.313 ail|AmOR.319 dog|DogOR.12 dog|DogOR.31 urs|UmOR832 urs|UmOR842 mus|Mm2OR4.2.1
+fam131: ail|AmOR.33 ail|AmOR.51 dog|DogOR.346 dog|DogOR.380 urs|UmOR685 urs|UmOR690 mus|Mm2OR9.2.44
+fam132: ail|AmOR.341 ail|AmOR.342 dog|DogOR.333 urs|UmOR587 dog|DogOR.331 mus|Mm2OR10.2.3 dog|DogOR.367
+fam133: ail|AmOR.368 ail|AmOR.370 dog|DogOR.272 dog|DogOR.274 urs|UmOR38 urs|UmOR40 mus|Mm2OR2.2.192
+fam134: ail|AmOR.476 ail|AmOR.586 dog|DogOR.321 dog|DogOR.582 mus|Mm2OR10.4.21 mus|Mm2OR10.4.41 urs|UmOR635
+fam135: ail|AmOR.592 ail|AmOR.593 dog|DogOR.404 dog|DogOR.405 dog|DogOR.409 mus|Mm2OR7.6.52 urs|UmOR527
+fam136: ail|AmOR.625 ail|AmOR.626 mus|Mm2OR11.1.1 mus|Mm2OR11.1.2 urs|UmOR303 urs|UmOR315 dog|DogOR.19
+fam137: dog|DogOR.107 dog|DogOR.108 mus|Mm2OR6.3.23 mus|Mm2OR6.3.24 mus|Mm2OR6.3.25 urs|UmOR1095 urs|UmOR927
+fam138: dog|DogOR.164 dog|DogOR.165 mus|Mm2OR2.2.34 mus|Mm2OR2.2.35 urs|UmOR140 urs|UmOR141 ail|AmOR.197
+fam139: dog|DogOR.309 dog|DogOR.312 mus|Mm2OR2.2.252 mus|Mm2OR2.2.257 urs|UmOR1162 urs|UmOR994 ail|AmOR.458
+fam140: dog|DogOR.415 dog|DogOR.511 mus|Mm2OR7.6.65 mus|Mm2OR7.6.89 urs|UmOR537 urs|UmOR570 ail|AmOR.463
+fam141: dog|DogOR.428 dog|DogOR.429 mus|Mm2OR7.6.100 mus|Mm2OR7.6.103 urs|UmOR479 urs|UmOR480 ail|AmOR.145
+fam142: dog|DogOR.521 dog|DogOR.801 mus|Mm2OR7.6.67 mus|Mm2OR7.6.80 mus|Mm2OR7.6.88 urs|UmOR788 urs|UmOR789
+fam143: dog|DogOR.585 dog|DogOR.600 dog|DogOR.623 ail|AmOR.531 mus|Mm2OR10.4.29 urs|UmOR734 urs|UmOR639
+fam144: dog|DogOR.654 dog|DogOR.756 mus|Mm2OR10.4.4 mus|Mm2OR10.4.6 ail|AmOR.412 urs|UmOR774 urs|UmOR736
+fam145: dog|DogOR.727 dog|DogOR.728 dog|DogOR.747 urs|UmOR697 urs|UmOR698 urs|UmOR706 ail|AmOR.248
+fam146: dog|DogOR.754 dog|DogOR.755 dog|DogOR.757 urs|UmOR246 urs|UmOR247 urs|UmOR248 mus|Mm2OR7.4.8
+fam147: mus|Mm2OR11.2.2 mus|Mm2OR11.2.3 mus|Mm2OR11.2.5 urs|UmOR15 urs|UmOR16 ail|AmOR.32 dog|DogOR.21
+fam148: mus|Mm2OR17.3.1 mus|Mm2OR17.3.2 mus|Mm2OR17.3.3 mus|Mm2OR17.3.4 urs|UmOR362 urs|UmOR8 ail|AmOR.521
+fam149: mus|Mm2OR17.3.49 mus|Mm2OR17.3.50 mus|Mm2OR17.3.51 mus|Mm2OR17.3.52 mus|Mm2OR17.3.55 ail|AmOR.535 urs|UmOR366
+fam150: mus|Mm2OR2.2.100 mus|Mm2OR2.2.99 mus|Mm2OR2.2.101 mus|Mm2OR2.2.102 mus|Mm2OR2.2.98 ail|AmOR.158 dog|DogOR.255
+fam151: mus|Mm2OR2.2.109 mus|Mm2OR2.2.110 mus|Mm2OR2.2.111 mus|Mm2OR2.2.112 ail|AmOR.154 dog|DogOR.258 urs|UmOR54
+fam152: mus|Mm2OR2.3.12 mus|Mm2OR2.3.13 mus|Mm2OR2.3.6 mus|Mm2OR2.3.7 mus|Mm2OR2.3.8 mus|Mm2OR2.3.9 mus|Mm2OR2.3.3
+fam153: mus|Mm2OR6.3.1 mus|Mm2OR6.3.2 mus|Mm2OR6.3.3 urs|UmOR1091 urs|UmOR923 ail|AmOR.91 dog|DogOR.103
+fam154: mus|Mm2OR8.1.1 mus|Mm2OR8.1.2 ail|AmOR.267 dog|DogOR.359 urs|UmOR1 ail|AmOR.486 urs|UmOR388
+fam155: urs|UmOR334 urs|UmOR335 urs|UmOR339 urs|UmOR342 urs|UmOR343 dog|DogOR.66 mus|Mm2OR11.4.19
+fam156: urs|UmOR553 urs|UmOR554 ail|AmOR.550 dog|DogOR.398 mus|Mm2OR7.6.30 dog|DogOR.499 mus|Mm2OR7.6.12
+fam157: urs|UmOR823 urs|UmOR825 ail|AmOR.121 mus|Mm2OR4.4.1 ail|AmOR.301 dog|DogOR.76 mus|Mm2OR4.4.6
+fam158: ail|AmOR.103 ail|AmOR.104 dog|DogOR.551 dog|DogOR.552 mus|Mm2OR7.6.151 urs|UmOR494
+fam159: ail|AmOR.209 ail|AmOR.215 urs|UmOR1054 urs|UmOR885 dog|DogOR.609 dog|DogOR.612
+fam160: ail|AmOR.217 ail|AmOR.500 ail|AmOR.642 dog|DogOR.692 dog|DogOR.703 mus|Mm2OR8.2.1
+fam161: ail|AmOR.314 ail|AmOR.315 dog|DogOR.29 dog|DogOR.30 mus|Mm2OR4.2.2 urs|UmOR841
+fam162: ail|AmOR.324 ail|AmOR.326 ail|AmOR.399 urs|UmOR609 urs|UmOR615 urs|UmOR617
+fam163: ail|AmOR.72 ail|AmOR.73 urs|UmOR150 urs|UmOR151 dog|DogOR.154 mus|Mm2OR2.2.12
+fam164: ail|AmOR.77 ail|AmOR.79 dog|DogOR.148 dog|DogOR.150 mus|Mm2OR19.1.66 mus|Mm2OR19.1.68
+fam165: dog|DogOR.166 dog|DogOR.167 mus|Mm2OR2.2.37 mus|Mm2OR2.2.38 ail|AmOR.196 urs|UmOR139
+fam166: dog|DogOR.308 dog|DogOR.311 urs|UmOR1161 urs|UmOR993 ail|AmOR.459 mus|Mm2OR2.2.254
+fam167: dog|DogOR.347 dog|DogOR.348 urs|UmOR688 urs|UmOR689 mus|Mm2OR9.2.46 mus|Mm2OR9.2.45
+fam168: dog|DogOR.439 dog|DogOR.440 dog|DogOR.441 ail|AmOR.140 mus|Mm2OR7.6.119 urs|UmOR471
+fam169: dog|DogOR.525 dog|DogOR.527 urs|UmOR448 urs|UmOR450 ail|AmOR.566 mus|Mm2OR7.6.92
+fam170: dog|DogOR.533 dog|DogOR.534 urs|UmOR476 urs|UmOR477 ail|AmOR.144 mus|Mm2OR7.6.111
+fam171: dog|DogOR.560 dog|DogOR.561 mus|Mm2OR7.7.26 mus|Mm2OR7.7.27 urs|UmOR176 urs|UmOR486
+fam172: dog|DogOR.61 dog|DogOR.62 urs|UmOR299 urs|UmOR300 urs|UmOR301 ail|AmOR.440
+fam173: dog|DogOR.648 dog|DogOR.649 mus|Mm2OR2.3.10 mus|Mm2OR2.3.5 urs|UmOR707 urs|UmOR791
+fam174: mus|Mm2OR11.4.13 mus|Mm2OR11.4.17 urs|UmOR331 urs|UmOR332 ail|AmOR.202 dog|DogOR.68
+fam175: mus|Mm2OR11.6.36 mus|Mm2OR11.6.38 mus|Mm2OR11.6.40 ail|AmOR.615 dog|DogOR.766 urs|UmOR814
+fam176: mus|Mm2OR13.1.12 mus|Mm2OR13.1.13 urs|UmOR579 urs|UmOR583 dog|DogOR.674 mus|Mm2OR13.1.10
+fam177: mus|Mm2OR16.3.6 mus|Mm2OR16.3.7 mus|Mm2OR16.3.8 urs|UmOR228 urs|UmOR336 dog|DogOR.67
+fam178: mus|Mm2OR17.3.11 mus|Mm2OR17.3.13 mus|Mm2OR17.3.20 mus|Mm2OR17.3.22 mus|Mm2OR17.3.9 ail|AmOR.309
+fam179: mus|Mm2OR19.1.73 mus|Mm2OR19.1.76 mus|Mm2OR19.1.79 ail|AmOR.75 dog|DogOR.151 urs|UmOR153
+fam180: mus|Mm2OR2.2.128 mus|Mm2OR2.2.133 mus|Mm2OR2.2.134 ail|AmOR.383 dog|DogOR.192 urs|UmOR116
+fam181: mus|Mm2OR2.2.153 mus|Mm2OR2.2.158 mus|Mm2OR2.2.160 ail|AmOR.380 dog|DogOR.262 urs|UmOR50
+fam182: mus|Mm2OR2.2.51 mus|Mm2OR2.2.52 mus|Mm2OR2.2.53 ail|AmOR.177 dog|DogOR.238 urs|UmOR74
+fam183: mus|Mm2OR2.3.2 mus|Mm2OR2.3.4 urs|UmOR661 urs|UmOR662 ail|AmOR.643 dog|DogOR.645
+fam184: mus|Mm2OR2.3.45 mus|Mm2OR2.3.46 urs|UmOR1083 urs|UmOR915 ail|AmOR.407 dog|DogOR.652
+fam185: mus|Mm2OR6.5.2 mus|Mm2OR6.5.3 urs|UmOR1071 urs|UmOR903 ail|AmOR.589 dog|DogOR.615
+fam186: mus|Mm2OR7.6.75 mus|Mm2OR7.6.76 mus|Mm2OR7.6.77 mus|Mm2OR7.6.83 ail|AmOR.628 urs|UmOR539
+fam187: mus|Mm2OR7.8.23 mus|Mm2OR7.8.6 mus|Mm2OR7.8.9 mus|Mm2OR7.8.8 mus|Mm2OR7.8.5 mus|Mm2OR7.8.7
+fam188: mus|Mm2OR9.3.91 mus|Mm2OR9.3.92 mus|Mm2OR9.3.94 ail|AmOR.241 dog|DogOR.722 urs|UmOR691
+fam189: urs|UmOR1063 urs|UmOR894 ail|AmOR.563 dog|DogOR.82 mus|Mm2OR14.3.15 dog|DogOR.83
+fam190: urs|UmOR1125 urs|UmOR1127 urs|UmOR957 urs|UmOR959 dog|DogOR.209 mus|Mm2OR2.2.258
+fam191: urs|UmOR1153 urs|UmOR1155 urs|UmOR985 urs|UmOR987 dog|DogOR.303 mus|Mm2OR2.2.237
+fam192: urs|UmOR328 urs|UmOR329 urs|UmOR330 urs|UmOR355 urs|UmOR356 ail|AmOR.201
+fam193: urs|UmOR826 urs|UmOR827 urs|UmOR828 ail|AmOR.539 dog|DogOR.93 mus|Mm2OR4.4.3
+fam194: ail|AmOR.303 dog|DogOR.678 mus|Mm2OR1.2.1 urs|UmOR205 urs|UmOR219 dog|DogOR.694
+fam195: ail|AmOR.71 dog|DogOR.156 dog|DogOR.157 mus|Mm2OR2.2.23 urs|UmOR147 urs|UmOR148
+fam196: ail|AmOR.185 ail|AmOR.186 urs|UmOR125 urs|UmOR126 dog|DogOR.179
+fam197: ail|AmOR.29 ail|AmOR.30 urs|UmOR1057 urs|UmOR888 dog|DogOR.591
+fam198: ail|AmOR.329 ail|AmOR.94 dog|DogOR.1 urs|UmOR316 mus|Mm2OR7.2.7
+fam199: ail|AmOR.361 ail|AmOR.363 mus|Mm2OR9.3.31 mus|Mm2OR9.3.48 dog|DogOR.710
+fam200: dog|DogOR.131 dog|DogOR.134 ail|AmOR.522 mus|Mm2OR19.1.22 urs|UmOR168
+fam201: dog|DogOR.161 dog|DogOR.234 ail|AmOR.291 mus|Mm2OR2.2.30 urs|UmOR144
+fam202: dog|DogOR.175 dog|DogOR.176 ail|AmOR.188 mus|Mm2OR2.2.64 urs|UmOR129
+fam203: dog|DogOR.314 dog|DogOR.316 urs|UmOR1166 urs|UmOR998 ail|AmOR.428
+fam204: dog|DogOR.32 dog|DogOR.33 urs|UmOR843 urs|UmOR844 ail|AmOR.312
+fam205: dog|DogOR.386 dog|DogOR.387 ail|AmOR.2 mus|Mm2OR7.5.1 mus|Mm2OR7.5.2
+fam206: dog|DogOR.638 dog|DogOR.643 urs|UmOR780 urs|UmOR797 mus|Mm2OR14.3.8
+fam207: dog|DogOR.639 dog|DogOR.644 ail|AmOR.630 mus|Mm2OR14.3.7 urs|UmOR779
+fam208: dog|DogOR.671 dog|DogOR.785 ail|AmOR.569 mus|Mm2OR17.3.40 urs|UmOR10
+fam209: dog|DogOR.700 dog|DogOR.701 dog|DogOR.702 ail|AmOR.218 urs|UmOR226
+fam210: dog|DogOR.77 dog|DogOR.97 urs|UmOR1065 urs|UmOR896 mus|Mm2OR14.3.14
+fam211: dog|DogOR.96 dog|DogOR.98 urs|UmOR1064 urs|UmOR758 urs|UmOR895
+fam212: mus|Mm2OR1.3.14 mus|Mm2OR1.3.16 ail|AmOR.224 dog|DogOR.689 urs|UmOR214
+fam213: mus|Mm2OR10.4.51 mus|Mm2OR10.4.52 urs|UmOR732 urs|UmOR746 ail|AmOR.541
+fam214: mus|Mm2OR10.4.56 mus|Mm2OR10.4.57 mus|Mm2OR10.4.58 ail|AmOR.596 urs|UmOR637
+fam215: mus|Mm2OR11.2.6 mus|Mm2OR11.2.7 ail|AmOR.31 dog|DogOR.10 urs|UmOR18
+fam216: mus|Mm2OR11.4.21 mus|Mm2OR11.4.22 mus|Mm2OR11.4.23 ail|AmOR.204 urs|UmOR353
+fam217: mus|Mm2OR11.6.10 mus|Mm2OR11.6.13 mus|Mm2OR11.6.9 mus|Mm2OR11.6.12 mus|Mm2OR11.6.8
+fam218: mus|Mm2OR11.6.16 mus|Mm2OR11.6.18 mus|Mm2OR11.6.19 mus|Mm2OR11.6.21 mus|Mm2OR11.6.22
+fam219: mus|Mm2OR13.1.2 mus|Mm2OR13.1.3 ail|AmOR.623 dog|DogOR.677 urs|UmOR379
+fam220: mus|Mm2OR14.3.2 mus|Mm2OR14.3.3 urs|UmOR1047 urs|UmOR878 dog|DogOR.762
+fam221: mus|Mm2OR14.3.4 mus|Mm2OR14.3.5 mus|Mm2OR14.3.6 dog|DogOR.640 urs|UmOR654
+fam222: mus|Mm2OR14.4.7 mus|Mm2OR14.4.8 urs|UmOR729 urs|UmOR800 dog|DogOR.101
+fam223: mus|Mm2OR16.3.3 mus|Mm2OR16.3.5 ail|AmOR.497 dog|DogOR.70 urs|UmOR612
+fam224: mus|Mm2OR19.1.1 mus|Mm2OR19.1.2 ail|AmOR.321 dog|DogOR.214 urs|UmOR95
+fam225: mus|Mm2OR19.1.29 mus|Mm2OR19.1.32 ail|AmOR.264 dog|DogOR.140 urs|UmOR163
+fam226: mus|Mm2OR19.1.33 mus|Mm2OR19.1.34 ail|AmOR.265 dog|DogOR.141 urs|UmOR162
+fam227: mus|Mm2OR19.1.37 mus|Mm2OR19.1.38 mus|Mm2OR19.1.43 mus|Mm2OR19.1.42 mus|Mm2OR19.1.46
+fam228: mus|Mm2OR2.1.25 mus|Mm2OR2.1.27 mus|Mm2OR2.1.28 ail|AmOR.511 urs|UmOR850
+fam229: mus|Mm2OR2.2.163 mus|Mm2OR2.2.164 ail|AmOR.375 dog|DogOR.267 urs|UmOR45
+fam230: mus|Mm2OR2.2.169 mus|Mm2OR2.2.174 ail|AmOR.373 dog|DogOR.269 urs|UmOR43
+fam231: mus|Mm2OR2.2.188 mus|Mm2OR2.2.233 urs|UmOR1150 urs|UmOR982 dog|DogOR.300
+fam232: mus|Mm2OR2.2.191 mus|Mm2OR2.2.193 ail|AmOR.343 dog|DogOR.206 urs|UmOR101
+fam233: mus|Mm2OR2.2.21 mus|Mm2OR2.2.28 ail|AmOR.69 dog|DogOR.159 urs|UmOR145
+fam234: mus|Mm2OR2.2.40 mus|Mm2OR2.2.41 ail|AmOR.195 dog|DogOR.168 urs|UmOR138
+fam235: mus|Mm2OR2.2.61 mus|Mm2OR2.2.63 ail|AmOR.170 dog|DogOR.244 urs|UmOR67
+fam236: mus|Mm2OR7.6.51 mus|Mm2OR7.6.53 ail|AmOR.635 dog|DogOR.505 urs|UmOR563
+fam237: mus|Mm2OR7.9.5 mus|Mm2OR7.9.9 urs|UmOR1112 urs|UmOR944 ail|AmOR.288
+fam238: mus|Mm2OR9.2.28 mus|Mm2OR9.2.30 mus|Mm2OR9.2.31 mus|Mm2OR9.2.33 mus|Mm2OR9.2.32
+fam239: mus|Mm2OR9.3.54 mus|Mm2OR9.3.57 ail|AmOR.238 dog|DogOR.720 urs|UmOR670
+fam240: mus|Mm2OR9.3.55 mus|Mm2OR9.3.60 mus|Mm2OR9.3.61 ail|AmOR.239 urs|UmOR671
+fam241: urs|UmOR1006 urs|UmOR1174 ail|AmOR.278 dog|DogOR.489 mus|Mm2OR7.6.8
+fam242: urs|UmOR1010 urs|UmOR1178 ail|AmOR.275 dog|DogOR.395 mus|Mm2OR7.6.15
+fam243: urs|UmOR1011 urs|UmOR1179 ail|AmOR.274 dog|DogOR.394 mus|Mm2OR7.6.14
+fam244: urs|UmOR1012 urs|UmOR1180 ail|AmOR.273 dog|DogOR.393 mus|Mm2OR7.6.13
+fam245: urs|UmOR1016 urs|UmOR1184 ail|AmOR.270 dog|DogOR.390 mus|Mm2OR7.6.7
+fam246: urs|UmOR1017 urs|UmOR1185 ail|AmOR.269 dog|DogOR.389 mus|Mm2OR7.6.6
+fam247: urs|UmOR1028 urs|UmOR859 ail|AmOR.621 dog|DogOR.777 mus|Mm2OR2.1.35
+fam248: urs|UmOR1030 urs|UmOR861 ail|AmOR.490 dog|DogOR.778 mus|Mm2OR2.1.33
+fam249: urs|UmOR1038 urs|UmOR851 urs|UmOR869 ail|AmOR.510 mus|Mm2OR2.1.21
+fam250: urs|UmOR1058 urs|UmOR889 ail|AmOR.356 dog|DogOR.588 mus|Mm2OR15.1.5
+fam251: urs|UmOR1059 urs|UmOR890 ail|AmOR.357 dog|DogOR.587 mus|Mm2OR15.1.6
+fam252: urs|UmOR1061 urs|UmOR763 urs|UmOR892 ail|AmOR.638 dog|DogOR.79
+fam253: urs|UmOR1070 urs|UmOR902 ail|AmOR.588 dog|DogOR.618 mus|Mm2OR6.5.1
+fam254: urs|UmOR1079 urs|UmOR911 ail|AmOR.22 dog|DogOR.22 mus|Mm2OR4.1.1
+fam255: urs|UmOR1080 urs|UmOR912 ail|AmOR.23 dog|DogOR.23 mus|Mm2OR4.1.2
+fam256: urs|UmOR1089 urs|UmOR710 urs|UmOR921 dog|DogOR.642 mus|Mm2OR2.3.29
+fam257: urs|UmOR1090 urs|UmOR922 ail|AmOR.92 dog|DogOR.102 mus|Mm2OR6.3.4
+fam258: urs|UmOR1099 urs|UmOR931 ail|AmOR.38 dog|DogOR.114 mus|Mm2OR6.3.14
+fam259: urs|UmOR1102 urs|UmOR934 ail|AmOR.41 dog|DogOR.117 mus|Mm2OR6.3.11
+fam260: urs|UmOR1103 urs|UmOR935 ail|AmOR.42 dog|DogOR.118 mus|Mm2OR6.3.10
+fam261: urs|UmOR1111 urs|UmOR943 ail|AmOR.290 dog|DogOR.620 mus|Mm2OR7.9.1
+fam262: urs|UmOR1151 urs|UmOR983 ail|AmOR.393 dog|DogOR.301 mus|Mm2OR2.2.234
+fam263: urs|UmOR310 urs|UmOR311 urs|UmOR312 urs|UmOR313 mus|Mm2OR11.1.4
+fam264: urs|UmOR406 urs|UmOR410 ail|AmOR.624 dog|DogOR.760 mus|Mm2OR11.5.1
+fam265: urs|UmOR741 urs|UmOR792 ail|AmOR.639 dog|DogOR.88 mus|Mm2OR14.3.23
+fam266: urs|UmOR761 urs|UmOR829 ail|AmOR.637 dog|DogOR.636 mus|Mm2OR14.3.10
+fam267: urs|UmOR809 urs|UmOR810 urs|UmOR813 ail|AmOR.17 mus|Mm2OR11.6.45
+fam268: ail|AmOR.18 dog|DogOR.814 urs|UmOR24 mus|Mm2ORX.1.4 urs|UmOR25
+fam269: ail|AmOR.358 dog|DogOR.706 dog|DogOR.707 mus|Mm2OR9.3.6 urs|UmOR425
+fam270: dog|DogOR.185 dog|DogOR.187 mus|Mm2OR2.2.141 urs|UmOR121
+fam271: dog|DogOR.357 dog|DogOR.358 ail|AmOR.50 mus|Mm2OR9.2.1
+fam272: dog|DogOR.458 dog|DogOR.459 ail|AmOR.607 urs|UmOR453
+fam273: dog|DogOR.460 dog|DogOR.462 ail|AmOR.117 urs|UmOR511
+fam274: mus|Mm2OR1.2.3 mus|Mm2OR1.2.4 dog|DogOR.697 urs|UmOR222
+fam275: mus|Mm2OR14.3.25 mus|Mm2OR14.3.27 dog|DogOR.90 urs|UmOR682
+fam276: mus|Mm2OR17.3.14 mus|Mm2OR17.3.15 mus|Mm2OR17.3.16 urs|UmOR9
+fam277: mus|Mm2OR17.3.25 mus|Mm2OR17.3.26 ail|AmOR.308 urs|UmOR7
+fam278: mus|Mm2OR19.1.55 mus|Mm2OR19.1.56 mus|Mm2OR19.1.58 mus|Mm2OR19.1.59
+fam279: mus|Mm2OR19.1.65 mus|Mm2OR19.1.67 ail|AmOR.78 dog|DogOR.149
+fam280: mus|Mm2OR19.1.75 mus|Mm2OR19.1.78 ail|AmOR.66 dog|DogOR.227
+fam281: mus|Mm2OR2.2.122 mus|Mm2OR2.2.123 ail|AmOR.182 dog|DogOR.182
+fam282: mus|Mm2OR2.2.16 mus|Mm2OR2.2.19 dog|DogOR.155 urs|UmOR149
+fam283: mus|Mm2OR2.2.7 mus|Mm2OR2.2.8 mus|Mm2OR2.2.9 dog|DogOR.231
+fam284: mus|Mm2OR7.3.1 mus|Mm2OR7.3.2 ail|AmOR.562 urs|UmOR271
+fam285: mus|Mm2OR7.6.108 mus|Mm2OR7.6.109 ail|AmOR.126 urs|UmOR440
+fam286: mus|Mm2OR7.6.2 mus|Mm2OR7.6.3 urs|UmOR1008 urs|UmOR1176
+fam287: mus|Mm2OR7.6.56 mus|Mm2OR7.6.63 urs|UmOR531 dog|DogOR.410
+fam288: mus|Mm2OR7.6.78 mus|Mm2OR7.6.82 dog|DogOR.520 urs|UmOR577
+fam289: mus|Mm2OR9.2.17 mus|Mm2OR9.2.18 mus|Mm2OR9.2.7 mus|Mm2OR9.2.2
+fam290: mus|Mm2OR9.2.5 mus|Mm2OR9.2.6 dog|DogOR.352 urs|UmOR633
+fam291: urs|UmOR1009 urs|UmOR1177 dog|DogOR.486 mus|Mm2OR7.6.1
+fam292: urs|UmOR1022 urs|UmOR853 ail|AmOR.469 mus|Mm2OR2.1.16
+fam293: urs|UmOR1027 urs|UmOR858 ail|AmOR.622 dog|DogOR.776
+fam294: urs|UmOR1033 urs|UmOR227 urs|UmOR864 ail|AmOR.493
+fam295: urs|UmOR1035 urs|UmOR866 ail|AmOR.509 mus|Mm2OR2.1.24
+fam296: urs|UmOR1037 urs|UmOR868 ail|AmOR.618 mus|Mm2OR2.1.23
+fam297: urs|UmOR1040 urs|UmOR871 ail|AmOR.467 mus|Mm2OR2.1.17
+fam298: urs|UmOR1052 urs|UmOR883 ail|AmOR.514 dog|DogOR.614
+fam299: urs|UmOR1053 urs|UmOR884 ail|AmOR.216 dog|DogOR.613
+fam300: urs|UmOR1082 urs|UmOR914 ail|AmOR.406 dog|DogOR.653
+fam301: urs|UmOR1086 urs|UmOR918 ail|AmOR.410 mus|Mm2OR2.3.37
+fam302: urs|UmOR1092 urs|UmOR924 ail|AmOR.90 dog|DogOR.104
+fam303: urs|UmOR1104 urs|UmOR936 ail|AmOR.43 dog|DogOR.119
+fam304: urs|UmOR1108 urs|UmOR940 ail|AmOR.86 dog|DogOR.124
+fam305: urs|UmOR1149 urs|UmOR981 dog|DogOR.299 mus|Mm2OR2.2.231
+fam306: urs|UmOR1167 urs|UmOR999 ail|AmOR.429 dog|DogOR.317
+fam307: urs|UmOR250 urs|UmOR251 urs|UmOR256 ail|AmOR.401
+fam308: urs|UmOR266 urs|UmOR269 urs|UmOR270 ail|AmOR.405
+fam309: urs|UmOR267 urs|UmOR325 ail|AmOR.200 dog|DogOR.69
+fam310: urs|UmOR318 urs|UmOR623 urs|UmOR624 ail|AmOR.330
+fam311: urs|UmOR363 urs|UmOR365 ail|AmOR.536 mus|Mm2OR13.1.1
+fam312: urs|UmOR376 urs|UmOR582 dog|DogOR.670 mus|Mm2OR13.1.7
+fam313: urs|UmOR405 urs|UmOR411 ail|AmOR.503 mus|Mm2OR11.5.2
+fam314: urs|UmOR513 urs|UmOR514 dog|DogOR.758 mus|Mm2OR14.5.1
+fam315: urs|UmOR525 urs|UmOR558 ail|AmOR.555 dog|DogOR.503
+fam316: urs|UmOR528 urs|UmOR530 urs|UmOR561 dog|DogOR.407
+fam317: ail|AmOR.1 dog|DogOR.730 mus|Mm2OR9.3.118 urs|UmOR700
+fam318: ail|AmOR.100 dog|DogOR.557 mus|Mm2OR7.7.19 urs|UmOR489
+fam319: ail|AmOR.102 dog|DogOR.554 mus|Mm2OR7.6.157 urs|UmOR492
+fam320: ail|AmOR.11 dog|DogOR.485 mus|Mm2OR7.8.44 urs|UmOR177
+fam321: ail|AmOR.111 dog|DogOR.466 mus|Mm2OR7.6.158 urs|UmOR505
+fam322: ail|AmOR.122 dog|DogOR.539 mus|Mm2OR7.6.120 urs|UmOR433
+fam323: ail|AmOR.127 dog|DogOR.434 mus|Mm2OR7.6.107 urs|UmOR441
+fam324: ail|AmOR.129 dog|DogOR.532 mus|Mm2OR7.6.104 urs|UmOR443
+fam325: ail|AmOR.139 dog|DogOR.442 mus|Mm2OR7.6.121 urs|UmOR470
+fam326: ail|AmOR.141 dog|DogOR.438 mus|Mm2OR7.6.118 urs|UmOR472
+fam327: ail|AmOR.142 dog|DogOR.437 mus|Mm2OR7.6.117 urs|UmOR473
+fam328: ail|AmOR.146 dog|DogOR.427 mus|Mm2OR7.6.99 urs|UmOR481
+fam329: ail|AmOR.147 dog|DogOR.426 mus|Mm2OR7.6.98 urs|UmOR482
+fam330: ail|AmOR.148 dog|DogOR.424 mus|Mm2OR7.6.96 urs|UmOR483
+fam331: ail|AmOR.153 dog|DogOR.259 mus|Mm2OR2.2.113 urs|UmOR53
+fam332: ail|AmOR.156 dog|DogOR.256 mus|Mm2OR2.2.107 urs|UmOR55
+fam333: ail|AmOR.16 dog|DogOR.35 mus|Mm2OR4.3.1 urs|UmOR846
+fam334: ail|AmOR.171 dog|DogOR.243 mus|Mm2OR2.2.58 urs|UmOR68
+fam335: ail|AmOR.178 dog|DogOR.235 mus|Mm2OR2.2.31 urs|UmOR77
+fam336: ail|AmOR.184 dog|DogOR.180 mus|Mm2OR2.2.114 urs|UmOR124
+fam337: ail|AmOR.189 dog|DogOR.174 mus|Mm2OR2.2.50 urs|UmOR130
+fam338: ail|AmOR.193 dog|DogOR.170 mus|Mm2OR2.2.43 urs|UmOR136
+fam339: ail|AmOR.194 dog|DogOR.169 mus|Mm2OR2.2.42 urs|UmOR137
+fam340: ail|AmOR.199 dog|DogOR.162 mus|Mm2OR2.2.32 urs|UmOR143
+fam341: mus|Mm2OR11.4.3 dog|DogOR.44 urs|UmOR349 urs|UmOR302
+fam342: ail|AmOR.206 dog|DogOR.40 mus|Mm2OR11.4.12 urs|UmOR360
+fam343: ail|AmOR.207 dog|DogOR.668 mus|Mm2OR13.1.11 urs|UmOR578
+fam344: ail|AmOR.219 dog|DogOR.699 mus|Mm2OR1.3.13 urs|UmOR224
+fam345: ail|AmOR.220 dog|DogOR.698 mus|Mm2OR1.3.8 urs|UmOR223
+fam346: ail|AmOR.223 dog|DogOR.690 mus|Mm2OR1.3.17 urs|UmOR215
+fam347: ail|AmOR.225 dog|DogOR.688 mus|Mm2OR1.3.12 urs|UmOR213
+fam348: ail|AmOR.228 dog|DogOR.685 mus|Mm2OR1.3.6 urs|UmOR210
+fam349: ail|AmOR.229 dog|DogOR.684 mus|Mm2OR1.3.5 urs|UmOR209
+fam350: ail|AmOR.230 dog|DogOR.683 mus|Mm2OR1.3.4 urs|UmOR208
+fam351: ail|AmOR.233 dog|DogOR.680 mus|Mm2OR1.2.7 urs|UmOR206
+fam352: ail|AmOR.237 dog|DogOR.719 mus|Mm2OR9.3.52 urs|UmOR669
+fam353: ail|AmOR.240 dog|DogOR.721 mus|Mm2OR9.3.90 urs|UmOR672
+fam354: ail|AmOR.244 dog|DogOR.724 mus|Mm2OR9.3.113 urs|UmOR693
+fam355: ail|AmOR.245 dog|DogOR.725 mus|Mm2OR9.3.114 urs|UmOR694
+fam356: ail|AmOR.247 dog|DogOR.726 mus|Mm2OR9.3.117 urs|UmOR696
+fam357: ail|AmOR.249 dog|DogOR.733 mus|Mm2OR9.3.106 urs|UmOR673
+fam358: ail|AmOR.253 dog|DogOR.738 mus|Mm2OR9.3.88 urs|UmOR679
+fam359: ail|AmOR.262 dog|DogOR.137 mus|Mm2OR19.1.24 urs|UmOR165
+fam360: ail|AmOR.263 dog|DogOR.139 mus|Mm2OR19.1.28 urs|UmOR164
+fam361: ail|AmOR.282 dog|DogOR.493 mus|Mm2OR7.6.18 urs|UmOR546
+fam362: ail|AmOR.310 dog|DogOR.100 mus|Mm2OR14.3.28 urs|UmOR683
+fam363: ail|AmOR.318 dog|DogOR.13 mus|Mm2OR4.2.3 urs|UmOR833
+fam364: ail|AmOR.323 dog|DogOR.129 mus|Mm2OR19.1.4 urs|UmOR170
+fam365: ail|AmOR.328 dog|DogOR.813 mus|Mm2ORX.2.1 urs|UmOR398
+fam366: ail|AmOR.332 dog|DogOR.55 mus|Mm2OR14.1.1 urs|UmOR291
+fam367: ail|AmOR.333 dog|DogOR.56 mus|Mm2OR14.1.2 urs|UmOR292
+fam368: ail|AmOR.335 dog|DogOR.58 mus|Mm2OR14.1.3 urs|UmOR293
+fam369: ail|AmOR.360 dog|DogOR.709 mus|Mm2OR9.3.8 urs|UmOR423
+fam370: ail|AmOR.371 dog|DogOR.271 urs|UmOR41 mus|Mm2OR2.2.180
+fam371: ail|AmOR.376 dog|DogOR.266 mus|Mm2OR2.2.162 urs|UmOR46
+fam372: ail|AmOR.382 dog|DogOR.193 mus|Mm2OR2.2.179 urs|UmOR115
+fam373: ail|AmOR.420 dog|DogOR.604 mus|Mm2OR10.4.66 urs|UmOR649
+fam374: ail|AmOR.439 dog|DogOR.752 mus|Mm2OR3.4.1 urs|UmOR777
+fam375: ail|AmOR.446 dog|DogOR.454 mus|Mm2OR7.6.141 urs|UmOR457
+fam376: ail|AmOR.448 dog|DogOR.456 mus|Mm2OR7.6.143 urs|UmOR456
+fam377: ail|AmOR.450 dog|DogOR.541 mus|Mm2OR7.6.137 urs|UmOR430
+fam378: ail|AmOR.479 dog|DogOR.508 mus|Mm2OR7.6.60 urs|UmOR567
+fam379: ail|AmOR.525 dog|DogOR.221 mus|Mm2OR19.1.11 urs|UmOR89
+fam380: ail|AmOR.526 dog|DogOR.222 mus|Mm2OR19.1.12 urs|UmOR88
+fam381: ail|AmOR.54 dog|DogOR.384 mus|Mm2OR9.2.23 urs|UmOR627
+fam382: ail|AmOR.540 dog|DogOR.75 mus|Mm2OR4.4.4 urs|UmOR824
+fam383: ail|AmOR.552 dog|DogOR.475 mus|Mm2OR7.7.25 urs|UmOR500
+fam384: ail|AmOR.554 dog|DogOR.501 mus|Mm2OR7.6.35 urs|UmOR556
+fam385: ail|AmOR.584 dog|DogOR.596 mus|Mm2OR10.4.60 urs|UmOR643
+fam386: ail|AmOR.594 dog|DogOR.751 mus|Mm2OR16.1.4 urs|UmOR796
+fam387: ail|AmOR.612 dog|DogOR.400 mus|Mm2OR7.6.32 urs|UmOR521
+fam388: ail|AmOR.616 dog|DogOR.559 mus|Mm2OR7.7.22 urs|UmOR487
+fam389: ail|AmOR.640 dog|DogOR.18 mus|Mm2OR11.1.3 urs|UmOR314
+fam390: ail|AmOR.644 dog|DogOR.517 mus|Mm2OR7.6.69 urs|UmOR575
+fam391: ail|AmOR.84 dog|DogOR.731 mus|Mm2OR9.3.1 urs|UmOR415
+fam392: ail|AmOR.93 dog|DogOR.128 mus|Mm2OR3.3.1 urs|UmOR397
+fam393: dog|DogOR.646 mus|Mm2OR2.3.14 dog|DogOR.647 urs|UmOR709
+fam394: ail|AmOR.208 ail|AmOR.213 dog|DogOR.610
+fam395: ail|AmOR.418 ail|AmOR.421 dog|DogOR.601
+fam396: dog|DogOR.631 dog|DogOR.8 mus|Mm2OR10.4.7
+fam397: dog|DogOR.790 dog|DogOR.80 urs|UmOR659
+fam398: dog|DogOR.84 dog|DogOR.99 ail|AmOR.604
+fam399: mus|Mm2OR10.2.4 mus|Mm2OR10.2.5 mus|Mm2OR10.2.6
+fam400: mus|Mm2OR14.3.24 mus|Mm2OR14.3.26 dog|DogOR.89
+fam401: mus|Mm2OR14.4.2 mus|Mm2OR14.4.3 urs|UmOR621
+fam402: mus|Mm2OR14.4.4 mus|Mm2OR14.4.5 urs|UmOR622
+fam403: mus|Mm2OR16.4.23 mus|Mm2OR16.4.25 mus|Mm2OR16.4.26
+fam404: mus|Mm2OR16.4.28 mus|Mm2OR16.4.29 mus|Mm2OR16.4.30
+fam405: mus|Mm2OR17.3.32 mus|Mm2OR17.3.46 mus|Mm2OR17.3.38
+fam406: mus|Mm2OR2.2.167 mus|Mm2OR2.2.168 mus|Mm2OR2.2.171
+fam407: mus|Mm2OR2.2.70 mus|Mm2OR2.2.76 mus|Mm2OR2.2.71
+fam408: mus|Mm2OR2.2.79 mus|Mm2OR2.2.81 mus|Mm2OR2.2.83
+fam409: mus|Mm2OR7.6.70 mus|Mm2OR7.6.71 dog|DogOR.518
+fam410: mus|Mm2OR7.9.11 mus|Mm2OR7.9.13 mus|Mm2OR7.9.8
+fam411: mus|Mm2OR9.2.4 mus|Mm2OR9.2.8 mus|Mm2OR9.2.9
+fam412: mus|Mm2OR9.2.41 mus|Mm2OR9.2.42 urs|UmOR686
+fam413: mus|Mm2OR9.3.49 mus|Mm2OR9.3.98 mus|Mm2OR9.3.97
+fam414: mus|Mm2OR9.3.67 mus|Mm2OR9.3.81 mus|Mm2OR9.3.84
+fam415: urs|UmOR1026 urs|UmOR857 ail|AmOR.6
+fam416: urs|UmOR1029 urs|UmOR860 ail|AmOR.489
+fam417: urs|UmOR1034 urs|UmOR865 ail|AmOR.494
+fam418: urs|UmOR1036 urs|UmOR867 ail|AmOR.508
+fam419: urs|UmOR1045 urs|UmOR876 ail|AmOR.627
+fam420: urs|UmOR1046 urs|UmOR877 ail|AmOR.641
+fam421: urs|UmOR1051 urs|UmOR882 ail|AmOR.513
+fam422: urs|UmOR1056 urs|UmOR887 mus|Mm2OR15.1.10
+fam423: urs|UmOR229 urs|UmOR347 ail|AmOR.366
+fam424: urs|UmOR326 urs|UmOR327 urs|UmOR357
+fam425: urs|UmOR524 urs|UmOR559 dog|DogOR.403
+fam426: urs|UmOR651 urs|UmOR658 urs|UmOR652
+fam427: urs|UmOR738 urs|UmOR739 ail|AmOR.506
+fam428: urs|UmOR740 urs|UmOR762 dog|DogOR.81
+fam429: urs|UmOR778 urs|UmOR831 dog|DogOR.9
+fam430: ail|AmOR.123 dog|DogOR.538 urs|UmOR434
+fam431: ail|AmOR.128 mus|Mm2OR7.6.105 urs|UmOR442
+fam432: dog|DogOR.535 mus|Mm2OR7.6.106 urs|UmOR478
+fam433: ail|AmOR.131 dog|DogOR.531 urs|UmOR444
+fam434: ail|AmOR.155 dog|DogOR.257 mus|Mm2OR2.2.108
+fam435: ail|AmOR.157 mus|Mm2OR2.2.106 urs|UmOR56
+fam436: ail|AmOR.176 dog|DogOR.239 urs|UmOR73
+fam437: ail|AmOR.181 dog|DogOR.183 mus|Mm2OR2.2.124
+fam438: ail|AmOR.183 dog|DogOR.181 urs|UmOR123
+fam439: ail|AmOR.19 mus|Mm2ORX.1.3 urs|UmOR23
+fam440: ail|AmOR.198 dog|DogOR.163 urs|UmOR142
+fam441: ail|AmOR.20 mus|Mm2ORX.1.5 urs|UmOR20
+fam442: ail|AmOR.21 mus|Mm2ORX.1.1 urs|UmOR19
+fam443: ail|AmOR.214 dog|DogOR.611 urs|UmOR897
+fam444: ail|AmOR.221 dog|DogOR.696 urs|UmOR221
+fam445: ail|AmOR.222 mus|Mm2OR1.3.18 urs|UmOR216
+fam446: ail|AmOR.254 dog|DogOR.739 urs|UmOR680
+fam447: ail|AmOR.260 dog|DogOR.746 mus|Mm2OR9.3.116
+fam448: ail|AmOR.261 dog|DogOR.136 urs|UmOR166
+fam449: ail|AmOR.276 mus|Mm2OR7.6.20 urs|UmOR515
+fam450: dog|DogOR.38 mus|Mm2OR7.4.2 urs|UmOR261
+fam451: ail|AmOR.289 dog|DogOR.621 mus|Mm2OR7.9.3
+fam452: ail|AmOR.305 mus|Mm2OR17.3.8 urs|UmOR4
+fam453: ail|AmOR.306 mus|Mm2OR17.3.24 urs|UmOR5
+fam454: ail|AmOR.317 dog|DogOR.14 urs|UmOR834
+fam455: ail|AmOR.322 dog|DogOR.130 urs|UmOR169
+fam456: ail|AmOR.336 dog|DogOR.59 urs|UmOR294
+fam457: ail|AmOR.365 dog|DogOR.732 urs|UmOR414
+fam458: ail|AmOR.372 dog|DogOR.270 urs|UmOR42
+fam459: ail|AmOR.374 urs|UmOR44 dog|DogOR.268
+fam460: ail|AmOR.381 dog|DogOR.194 urs|UmOR114
+fam461: ail|AmOR.384 mus|Mm2OR13.1.5 urs|UmOR373
+fam462: ail|AmOR.400 mus|Mm2OR13.1.6 urs|UmOR380
+fam463: ail|AmOR.457 dog|DogOR.365 urs|UmOR392
+fam464: ail|AmOR.46 dog|DogOR.350 urs|UmOR687
+fam465: ail|AmOR.464 dog|DogOR.512 urs|UmOR571
+fam466: ail|AmOR.47 dog|DogOR.351 urs|UmOR634
+fam467: ail|AmOR.481 dog|DogOR.506 urs|UmOR564
+fam468: ail|AmOR.483 dog|DogOR.411 urs|UmOR532
+fam469: ail|AmOR.499 dog|DogOR.691 urs|UmOR217
+fam470: ail|AmOR.501 dog|DogOR.693 urs|UmOR218
+fam471: ail|AmOR.502 dog|DogOR.761 urs|UmOR412
+fam472: ail|AmOR.504 dog|DogOR.753 urs|UmOR401
+fam473: ail|AmOR.512 mus|Mm2OR2.1.29 urs|UmOR849
+fam474: ail|AmOR.519 dog|DogOR.729 urs|UmOR699
+fam475: ail|AmOR.52 dog|DogOR.381 urs|UmOR684
+fam476: ail|AmOR.527 dog|DogOR.106 mus|Mm2OR11.4.1
+fam477: ail|AmOR.553 mus|Mm2OR7.6.34 urs|UmOR522
+fam478: ail|AmOR.556 mus|Mm2OR7.6.46 urs|UmOR560
+fam479: ail|AmOR.557 dog|DogOR.60 urs|UmOR298
+fam480: ail|AmOR.565 dog|DogOR.524 urs|UmOR451
+fam481: ail|AmOR.568 mus|Mm2OR17.3.39 urs|UmOR11
+fam482: ail|AmOR.573 dog|DogOR.759 urs|UmOR409
+fam483: ail|AmOR.597 dog|DogOR.598 urs|UmOR645
+fam484: ail|AmOR.608 dog|DogOR.523 urs|UmOR786
+fam485: ail|AmOR.619 dog|DogOR.749 urs|UmOR852
+fam486: ail|AmOR.65 dog|DogOR.228 urs|UmOR83
+fam487: ail|AmOR.70 dog|DogOR.158 urs|UmOR146
+fam488: ail|AmOR.74 dog|DogOR.153 urs|UmOR152
+fam489: ail|AmOR.76 mus|Mm2OR19.1.70 urs|UmOR154
+fam490: ail|AmOR.83 mus|Mm2ORX.2.2 urs|UmOR22
+fam491: ail|AmOR.96 mus|Mm2OR7.2.8 urs|UmOR319
+fam492: dog|DogOR.215 mus|Mm2OR19.1.3 urs|UmOR94
+fam493: dog|DogOR.236 mus|Mm2OR2.2.36 urs|UmOR76
+fam494: dog|DogOR.237 mus|Mm2OR2.2.49 urs|UmOR75
+fam495: dog|DogOR.366 mus|Mm2OR10.2.2 urs|UmOR393
+fam496: dog|DogOR.37 mus|Mm2OR7.4.3 urs|UmOR260
+fam497: dog|DogOR.402 mus|Mm2OR7.6.48 urs|UmOR523
+fam498: dog|DogOR.416 mus|Mm2OR7.6.72 urs|UmOR538
+fam499: dog|DogOR.433 mus|Mm2OR7.6.110 urs|UmOR439
+fam500: dog|DogOR.436 mus|Mm2OR7.6.116 urs|UmOR474
+fam501: dog|DogOR.502 mus|Mm2OR7.6.36 urs|UmOR557
+fam502: dog|DogOR.516 mus|Mm2OR7.6.68 urs|UmOR574
+fam503: dog|DogOR.519 mus|Mm2OR7.6.74 urs|UmOR576
+fam504: dog|DogOR.553 mus|Mm2OR7.6.152 urs|UmOR493
+fam505: dog|DogOR.556 mus|Mm2OR7.7.18 urs|UmOR490
+fam506: dog|DogOR.558 mus|Mm2OR7.7.20 urs|UmOR488
+fam507: dog|DogOR.597 mus|Mm2OR10.4.59 urs|UmOR644
+fam508: dog|DogOR.637 mus|Mm2OR14.3.9 urs|UmOR830
+fam509: dog|DogOR.669 mus|Mm2OR13.1.9 urs|UmOR580
+fam510: dog|DogOR.672 mus|Mm2OR17.3.7 urs|UmOR361
+fam511: dog|DogOR.767 mus|Mm2OR11.6.28 urs|UmOR811
+fam512: dog|DogOR.78 mus|Mm2OR14.3.13 urs|UmOR759
+fam513: dog|DogOR.624 dog|DogOR.793
+fam514: mus|Mm2OR10.4.1 mus|Mm2OR10.4.2
+fam515: mus|Mm2OR19.1.13 mus|Mm2OR19.1.16
+fam516: mus|Mm2OR19.1.26 mus|Mm2OR19.1.27
+fam517: mus|Mm2OR19.1.30 mus|Mm2OR19.1.31
+fam518: mus|Mm2OR19.1.45 mus|Mm2OR19.1.47
+fam519: mus|Mm2OR2.1.18 mus|Mm2OR2.1.20
+fam520: mus|Mm2OR2.2.10 mus|Mm2OR2.2.14
+fam521: mus|Mm2OR2.2.115 mus|Mm2OR2.2.116
+fam522: mus|Mm2OR2.2.117 mus|Mm2OR2.2.119
+fam523: mus|Mm2OR2.2.136 mus|Mm2OR2.2.137
+fam524: mus|Mm2OR2.2.147 mus|Mm2OR2.2.149
+fam525: mus|Mm2OR2.2.201 mus|Mm2OR2.2.203
+fam526: mus|Mm2OR2.2.22 mus|Mm2OR2.2.65
+fam527: mus|Mm2OR2.2.240 mus|Mm2OR2.2.241
+fam528: mus|Mm2OR2.2.72 mus|Mm2OR2.2.77
+fam529: mus|Mm2OR2.2.95 mus|Mm2OR2.2.97
+fam530: mus|Mm2OR7.8.12 mus|Mm2OR7.8.40
+fam531: mus|Mm2OR7.9.10 mus|Mm2OR7.9.4
+fam532: mus|Mm2OR9.2.21 mus|Mm2OR9.2.24
+fam533: mus|Mm2OR9.2.40 mus|Mm2OR9.2.43
+fam534: mus|Mm2OR9.3.46 mus|Mm2OR9.3.47
+fam535: mus|Mm2OR9.3.63 mus|Mm2OR9.3.64
+fam536: urs|UmOR1044 urs|UmOR875
+fam537: urs|UmOR1050 urs|UmOR881
+fam538: urs|UmOR1147 urs|UmOR979
+fam539: urs|UmOR242 urs|UmOR243
+fam540: urs|UmOR268 urs|UmOR324
+fam541: urs|UmOR402 urs|UmOR403
+fam542: urs|UmOR781 urs|UmOR798
+fam543: ail|AmOR.15 dog|DogOR.750
+fam544: ail|AmOR.175 urs|UmOR72
+fam545: ail|AmOR.205 urs|UmOR359
+fam546: ail|AmOR.235 mus|Mm2OR14.4.1
+fam547: ail|AmOR.246 urs|UmOR695
+fam548: ail|AmOR.296 urs|UmOR323
+fam549: ail|AmOR.307 urs|UmOR6
+fam550: ail|AmOR.327 urs|UmOR400
+fam551: ail|AmOR.334 dog|DogOR.57
+fam552: ail|AmOR.354 dog|DogOR.590
+fam553: ail|AmOR.355 dog|DogOR.589
+fam554: ail|AmOR.403 urs|UmOR265
+fam555: ail|AmOR.462 urs|UmOR569
+fam556: ail|AmOR.549 dog|DogOR.748
+fam557: ail|AmOR.606 urs|UmOR454
+fam558: ail|AmOR.82 urs|UmOR21
+fam559: dog|DogOR.138 mus|Mm2OR19.1.25
+fam560: dog|DogOR.20 urs|UmOR17
+fam561: dog|DogOR.322 urs|UmOR660
+fam562: dog|DogOR.368 mus|Mm2OR8.3.1
+fam563: dog|DogOR.399 urs|UmOR520
+fam564: dog|DogOR.401 urs|UmOR526
+fam565: dog|DogOR.41 urs|UmOR352
+fam566: dog|DogOR.42 urs|UmOR351
+fam567: dog|DogOR.425 mus|Mm2OR7.6.97
+fam568: dog|DogOR.43 urs|UmOR350
+fam569: dog|DogOR.432 urs|UmOR438
+fam570: dog|DogOR.435 urs|UmOR475
+fam571: dog|DogOR.498 mus|Mm2OR7.6.29
+fam572: dog|DogOR.513 urs|UmOR572
+fam573: dog|DogOR.514 urs|UmOR536
+fam574: dog|DogOR.530 urs|UmOR445
+fam575: dog|DogOR.617 mus|Mm2OR7.9.2
+fam576: dog|DogOR.632 urs|UmOR737
+fam577: dog|DogOR.651 urs|UmOR655
+fam578: dog|DogOR.735 urs|UmOR675
+fam579: dog|DogOR.74 urs|UmOR308
+fam580: dog|DogOR.768 mus|Mm2OR11.6.27
+fam581: dog|DogOR.815 urs|UmOR399
+fam582: dog|DogOR.91 mus|Mm2OR14.4.6
+fam583: mus|Mm2OR10.4.34 urs|UmOR776
+fam584: mus|Mm2OR11.4.11 urs|UmOR354
+fam585: mus|Mm2OR11.6.29 urs|UmOR812
+fam586: mus|Mm2OR13.1.8 urs|UmOR581
+fam587: mus|Mm2OR17.3.47 urs|UmOR13
+fam588: mus|Mm2OR17.3.48 urs|UmOR378
+fam589: mus|Mm2OR17.3.53 urs|UmOR367
+fam590: mus|Mm2OR2.3.15 urs|UmOR708

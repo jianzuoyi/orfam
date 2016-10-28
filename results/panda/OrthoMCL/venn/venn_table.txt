@@ -1,0 +1,5 @@
+panda polar_bear dog mouse
+8	64	23	1	
+14	267	58	11	
+3	44	17	46	
+0	25	9	
