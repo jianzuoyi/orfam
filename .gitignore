@@ -1,6 +1,5 @@
 doc/
 .DS_Store
-*.fa
 *.gff
 *.tblastn
 
