@@ -1,29 +1,29 @@
-#!bin/bash -e
+#!bin/env bash -e
 
 # general
-ORFAM_HOME=~/proj/orfam/
+ORFAM_HOME=/home/zuoyi/orfam
 PYTHON=$( which python2.7 || true )
-PARALLEL=ORFAM_HOME/bin/parallel
-BIOAWK=ORFAM_HOME/bin/bioawk
-BEDTOOLS=ORFAM_HOME/bin/bedtools
-FASTATOOLS=ORFAM_HOME/bin/fastatools.py
+PARALLEL=$ORFAM_HOME/bin/parallel
+BIOAWK=$ORFAM_HOME/bin/bioawk
+BEDTOOLS=$ORFAM_HOME/bin/bedtools
+FASTATOOLS=$ORFAM_HOME/bin/fastatools.py
 
 # alignment
-MAKEBLASTDB=ORFAM_HOME/bin/makeblastdb
-TBLASTN=ORFAM_HOME/bin/tblastn
-EXONERATE=ORFAM_HOME/bin/exonerate
-MAFFT=ORFAM_HOME/bin/mafft
+MAKEBLASTDB=$ORFAM_HOME/bin/makeblastdb
+TBLASTN=$ORFAM_HOME/bin/tblastn
+EXONERATE=$ORFAM_HOME/bin/exonerate
+MAFFT=$ORFAM_HOME/bin/mafft
 
 # phylo tree
-MEGACC=ORFAM_HOME/bin/megacc
+MEGACC=$ORFAM_HOME/bin/megacc
 
 # func
-FINDORF=ORFAM_HOME/bin/findorf.py
-TM_GAP=ORFAM_HOME/bin/tm_gap.py
-START_CODON=ORFAM_HOME/bin/start_codon.py
-PHYLO=ORFAM_HOME/bin/phylo.py
-ROOT_WITH_OUTGROUP=ORFAM_HOME/bin/root_with_outgroup.py
+FINDORF=$ORFAM_HOME/bin/findorf.py
+TM_GAP=$ORFAM_HOME/bin/tm_gap.py
+START_CODON=$ORFAM_HOME/bin/start_codon.py
+PHYLO=$ORFAM_HOME/bin/phylo.py
+ROOT_WITH_OUTGROUP=$ORFAM_HOME/bin/root_with_outgroup.py
 
 # pseudo
-PSEUDOGENE=ORFAM_HOME/bin/pseudogene.py
+PSEUDOGENE=$ORFAM_HOME/bin/pseudogene.py
 
