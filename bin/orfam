@@ -26,6 +26,15 @@ options: -h 	show this message
 
 # source the paths to the binaries used in the script
 function source_binaries() {
+	BIN=$(cd $(dirname $0);pwd)
+	FASTATOOLS=$BIN/fastatools.py
+        FINDORF=$BIN/findorf.py
+        TM_GAP=$BIN/tm_gap.py
+        START_CODON=$BIN/start_codon.py
+        PHYLO=$BIN/phylo_tree.py
+        ROOT_WITH_OUTGROUP=$BIN/root_with_outgroup.py
+        PSEUDOGENE=$BIN/pseudogene.py
+
 	if [[ -e $1 ]]; then
 		echo "Sourcing executables from $1 ..."
 		source $1
@@ -47,15 +56,6 @@ function source_binaries() {
 
 		# phylo tree
 		MEGACC=$( which megacc || true)
-		
-		# orfam scripts
-		FASTATOOLS=$( which fastatools.py || true )
-		FINDORF=$(which findorf.py || true)
-		TM_GAP=$( which tm_gap.py || true )
-		START_CODON=$( which start_codon.py || true )
-		PHYLO=$( which phylo_tree.py || true )
-		ROOT_WITH_OUTGROUP=$( which root_with_outgroup.py || true)
-		PSEUDOGENE=$( which pseudogene.py || true)
 	fi
 }
 
