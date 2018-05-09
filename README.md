@@ -1,4 +1,3 @@
-=======
 ORFAM
 =====
 A pipeline for identification of olfactory receptor(OR) gene family
